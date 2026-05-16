@@ -59,7 +59,7 @@ jobs:
               "notice_period_days":  30
             },
             "job_search": {
-              "keywords":   ["devops engineer", "aws", "kubernets", "Docker", "linux", "site realible engineer", "cloud engineer"],
+              "keywords":   ["devops engineer", "aws", "kubernets", "Docker", "linux", "site reliability engineer", "cloud engineer"],
               "skills":     ["aws", "azure", "devops", "teraform", "docker", "github", "kubernetes", "cloudformation", "Git", "linux", "python"],
               "experience_min": 4,
               "experience_max": 6,
