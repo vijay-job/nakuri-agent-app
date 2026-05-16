@@ -51,18 +51,18 @@ jobs:
             "naukri_password": "${{ secrets.NAUKRI_PASSWORD }}",
             "agent_start_date": "${{ secrets.AGENT_START_DATE }}",
             "profile": {
-              "current_role":        "Software Developer",
-              "experience_years":    2,
+              "current_role":        "AWS DEVOPS ENGINEER",
+              "experience_years":    4,
               "current_location":    "Bangalore",
               "preferred_locations": ["Bangalore", "Chennai", "Hyderabad", "Remote"],
-              "expected_salary_lpa": 6,
+              "expected_salary_lpa": 13,
               "notice_period_days":  30
             },
             "job_search": {
-              "keywords":   ["Java Developer", "Software Developer", "Microservices Developer", "Software Engineer", "Backend Developer", "Full Stack Developer", "Java"],
-              "skills":     ["Java", "SpringBoot", "Microservices", "REST API", "API", "Kafka", "JavaScript", "SQL", "Git", "React", "Node.js"],
-              "experience_min": 1,
-              "experience_max": 3,
+              "keywords":   ["devops engineer", "aws", "kubernets", "Docker", "linux", "site realible engineer", "cloud engineer"],
+              "skills":     ["aws", "azure", "devops", "teraform", "docker", "github", "kubernetes", "cloudformation", "Git", "linux", "python"],
+              "experience_min": 4,
+              "experience_max": 6,
               "max_applications_per_day": 20
             },
             "resume_path": "resume.pdf",
