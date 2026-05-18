@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18 07:06",
+  "last_updated": "2026-05-18 11:41",
   "total_applied": 14,
-  "total_manual": 62,
+  "total_manual": 64,
   "applied_jobs": [
     {
       "id": 1,
@@ -1201,6 +1201,38 @@
       "url": "https://www.naukri.com/job-listings-senior-aws-cloud-engineer-paxcom-india-bengaluru-4-to-9-years-180725026614",
       "found_on": "2026-05-18",
       "found_at": "2026-05-18 07:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 63,
+      "title": "DevOps Engineer",
+      "company": "American Express Global Business Travel",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "Computer scienceAutomationgithubVersion controlorchestrationProject managementConfiguration managementdevops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-american-express-global-business-travel-bengaluru-3-to-5-years-180526500108",
+      "found_on": "2026-05-18",
+      "found_at": "2026-05-18 11:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 64,
+      "title": "Associate DevOps Engineer",
+      "company": "Amgen Inc",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "Devops EngineerRegression TestingCssAutomationGithubAiRegressionInfrastructure As Code",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-devops-engineer-amgen-inc-hyderabad-2-to-6-years-180526914484",
+      "found_on": "2026-05-18",
+      "found_at": "2026-05-18 11:41",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
