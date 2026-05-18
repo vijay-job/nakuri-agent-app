@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-16 09:18",
+  "last_updated": "2026-05-18 07:06",
   "total_applied": 14,
-  "total_manual": 60,
+  "total_manual": 62,
   "applied_jobs": [
     {
       "id": 1,
@@ -1169,6 +1169,38 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-natwest-digital-services-india-pvt-ltd-chennai-gurugram-bengaluru-3-to-6-years-150526921716",
       "found_on": "2026-05-16",
       "found_at": "2026-05-16 09:18",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 61,
+      "title": "AWS DevOps Engineer - S",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Chennai, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "AWSJenkinsGITAws DevopsTerraformSDevops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-engineer-s-tata-consultancy-services-hyderabad-chennai-bengaluru-4-to-9-years-180326035566",
+      "found_on": "2026-05-18",
+      "found_at": "2026-05-18 07:05",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 62,
+      "title": "Senior / AWS Cloud Engineer -",
+      "company": "Paxcom India",
+      "location": "Bengaluru(Bommanahalli)",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "Monitoring ToolsDocker ImageCicd PipelineAWSKubernetesUnixScriptingJenkins",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-aws-cloud-engineer-paxcom-india-bengaluru-4-to-9-years-180725026614",
+      "found_on": "2026-05-18",
+      "found_at": "2026-05-18 07:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
