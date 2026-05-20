@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19 16:09",
+  "last_updated": "2026-05-20 06:56",
   "total_applied": 14,
-  "total_manual": 77,
+  "total_manual": 78,
   "applied_jobs": [
     {
       "id": 1,
@@ -1441,6 +1441,22 @@
       "url": "https://www.naukri.com/job-listings-level-ii-sdet-hca-healthcare-hyderabad-3-to-8-years-190526503726",
       "found_on": "2026-05-19",
       "found_at": "2026-05-19 16:09",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 78,
+      "title": "Devops Engineer",
+      "company": "Net Connect",
+      "location": "Bengaluru, Chennai, Mumbai (All Areas)",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "Aws DevopsCi/CdPythonJenkinsTerraformDockerAnsibleKubernetes",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-net-connect-chennai-bengaluru-mumbai-all-areas-3-to-8-years-200526017853",
+      "found_on": "2026-05-20",
+      "found_at": "2026-05-20 06:56",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
