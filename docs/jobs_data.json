@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20 06:56",
+  "last_updated": "2026-05-20 10:45",
   "total_applied": 14,
-  "total_manual": 78,
+  "total_manual": 81,
   "applied_jobs": [
     {
       "id": 1,
@@ -1457,6 +1457,54 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-net-connect-chennai-bengaluru-mumbai-all-areas-3-to-8-years-200526017853",
       "found_on": "2026-05-20",
       "found_at": "2026-05-20 06:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 79,
+      "title": "DevOps Engineer",
+      "company": "CGI",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "kubernetesmicrosoft azureansibledockerinfrastructure architecturepuppetcontainerizationgit",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-cgi-information-systems-and-management-consultants-bengaluru-1-to-6-years-200526501387",
+      "found_on": "2026-05-20",
+      "found_at": "2026-05-20 10:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 80,
+      "title": "DevOps Engineer-Software Engineer",
+      "company": "CGI",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-4 Yrs",
+      "skills": "cdcontinuous integrationkubernetespythonsoftware developmentnagiosversion controlmaven",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-software-engineer-cgi-information-systems-and-management-consultants-bengaluru-2-to-4-years-200526501185",
+      "found_on": "2026-05-20",
+      "found_at": "2026-05-20 10:42",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 81,
+      "title": "Python Software Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "PysparkPython DevelopmentAWSPythonSQLJenkinsGITDocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-software-developer-tata-consultancy-services-pune-bengaluru-4-to-8-years-200526030580",
+      "found_on": "2026-05-20",
+      "found_at": "2026-05-20 10:45",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
