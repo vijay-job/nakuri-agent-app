@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-27 07:18",
+  "last_updated": "2026-05-27 11:13",
   "total_applied": 14,
-  "total_manual": 151,
+  "total_manual": 153,
   "applied_jobs": [
     {
       "id": 1,
@@ -2625,6 +2625,38 @@
       "url": "https://www.naukri.com/job-listings-senior-software-engineer-i-optum-global-solutions-india-private-limited-hyderabad-3-to-6-years-260526933232",
       "found_on": "2026-05-27",
       "found_at": "2026-05-27 07:18",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 152,
+      "title": "Senior Engineer Cloud & DevOps",
+      "company": "Vigoursoft Global Solutions",
+      "location": "Bengaluru, Mysuru, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "kubernetespythonorchestrationmicrosoft azurescalabilityansibledockercontainerization",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-engineer-cloud-devops-vigoursoft-global-solutions-mysuru-pune-bengaluru-4-to-7-years-270526500020",
+      "found_on": "2026-05-27",
+      "found_at": "2026-05-27 11:11",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 153,
+      "title": "Devops Engineer SR",
+      "company": "Sagent M&c",
+      "location": "Hybrid - Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "TerraformDockerIacAzure DevopsKubernetesJenkinsGCPCi/Cd",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-sr-sagent-m-c-chennai-4-to-9-years-080426025858",
+      "found_on": "2026-05-27",
+      "found_at": "2026-05-27 11:13",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
