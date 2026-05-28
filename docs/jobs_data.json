@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-27 16:35",
+  "last_updated": "2026-05-28 16:43",
   "total_applied": 14,
-  "total_manual": 159,
+  "total_manual": 161,
   "applied_jobs": [
     {
       "id": 1,
@@ -2753,6 +2753,38 @@
       "url": "https://www.naukri.com/job-listings-senior-sdet-hca-healthcare-hyderabad-2-to-6-years-270526502421",
       "found_on": "2026-05-27",
       "found_at": "2026-05-27 16:35",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 160,
+      "title": "DevOps Engineer",
+      "company": "Cradlepoint Part Of Ericsson",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "continuous integrationcdkubernetesgithubnexusnginxsonarqubenagios",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-cradlepoint-part-of-ericsson-bengaluru-3-to-6-years-280526505346",
+      "found_on": "2026-05-28",
+      "found_at": "2026-05-28 16:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 161,
+      "title": "DevOps Engineer",
+      "company": "Summit Solution",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "Windows administrationVMwaregithubLinuxPowershellPAASNetwork securityVMS",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-summit-solutions-bengaluru-3-to-8-years-280526504815",
+      "found_on": "2026-05-28",
+      "found_at": "2026-05-28 16:43",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
