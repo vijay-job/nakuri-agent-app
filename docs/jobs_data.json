@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28 16:43",
+  "last_updated": "2026-05-29 07:06",
   "total_applied": 14,
-  "total_manual": 161,
+  "total_manual": 163,
   "applied_jobs": [
     {
       "id": 1,
@@ -2785,6 +2785,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-summit-solutions-bengaluru-3-to-8-years-280526504815",
       "found_on": "2026-05-28",
       "found_at": "2026-05-28 16:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 162,
+      "title": "Azure Devops Engineer",
+      "company": "Sunovaa Tech",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "Wix PlatformPowershellAzure DevOpsYAMLInstallshieldGITWiXCI/CD",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-sunovaa-tech-bengaluru-4-to-8-years-290526001284",
+      "found_on": "2026-05-29",
+      "found_at": "2026-05-29 07:02",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 163,
+      "title": "Python Web Scraping Engineer",
+      "company": "Straive",
+      "location": "Bengaluru, Hyderabad, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "Dockerscrapy frameworks BeautifulSoupSeleniumWeb ScrapingGITGithubPlaywright",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-web-scraping-engineer-straive-hyderabad-gurugram-bengaluru-3-to-6-years-290526003442",
+      "found_on": "2026-05-29",
+      "found_at": "2026-05-29 07:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
