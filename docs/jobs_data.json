@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-29 11:05",
+  "last_updated": "2026-05-29 16:19",
   "total_applied": 14,
-  "total_manual": 167,
+  "total_manual": 169,
   "applied_jobs": [
     {
       "id": 1,
@@ -2881,6 +2881,38 @@
       "url": "https://www.naukri.com/job-listings-python-selenium-professional-krazymantra-it-solutions-hyderabad-2-to-7-years-290526500355",
       "found_on": "2026-05-29",
       "found_at": "2026-05-29 11:05",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 168,
+      "title": "Developer III - DevOps Engineering",
+      "company": "UST",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "kubernetescontinuous integrationpythonvmwaremicrosoft azurenetworkingscalabilitydocker",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-developer-iii-devops-engineering-ust-bengaluru-3-to-5-years-290526507394",
+      "found_on": "2026-05-29",
+      "found_at": "2026-05-29 16:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 169,
+      "title": "Platform Engineer (AWS/Azure)",
+      "company": "Honeybee Tech Solutions",
+      "location": "Bengaluru, Pune",
+      "salary": "Not disclosed",
+      "experience": "2-4 Yrs",
+      "skills": "kubernetespythoncloud securityvmwareredhat linuxmicrosoft azurenetworkingansible",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-platform-engineer-aws-azure-honeybee-tech-solutions-pune-bengaluru-2-to-4-years-290526507239",
+      "found_on": "2026-05-29",
+      "found_at": "2026-05-29 16:19",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
