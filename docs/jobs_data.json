@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-29 16:19",
+  "last_updated": "2026-06-01 08:41",
   "total_applied": 14,
-  "total_manual": 169,
+  "total_manual": 170,
   "applied_jobs": [
     {
       "id": 1,
@@ -2913,6 +2913,22 @@
       "url": "https://www.naukri.com/job-listings-platform-engineer-aws-azure-honeybee-tech-solutions-pune-bengaluru-2-to-4-years-290526507239",
       "found_on": "2026-05-29",
       "found_at": "2026-05-29 16:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 170,
+      "title": "Mid-Level Backend Node.js; cloud; devops Developer",
+      "company": "Luxoft",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "cloud servicesNode.Jscontainer orchestrationTypeScriptDockerJavaScriptAWSKubernetes",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-mid-level-backend-node-js-cloud-devops-developer-luxoft-bengaluru-4-to-6-years-010626007885",
+      "found_on": "2026-06-01",
+      "found_at": "2026-06-01 08:41",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
