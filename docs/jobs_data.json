@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02 11:56",
+  "last_updated": "2026-06-02 17:12",
   "total_applied": 14,
-  "total_manual": 191,
+  "total_manual": 194,
   "applied_jobs": [
     {
       "id": 1,
@@ -3265,6 +3265,54 @@
       "url": "https://www.naukri.com/job-listings-engineer-site-reliability-engineering-slk-software-services-private-limited-chennai-0-to-4-years-020626502846",
       "found_on": "2026-06-02",
       "found_at": "2026-06-02 11:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 192,
+      "title": "Level II - SDET",
+      "company": "HCA Healthcare",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "continuous integrationcucumberci/cdspec flowjmeterazure devopsdockergit",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-level-ii-sdet-hca-healthcare-hyderabad-3-to-8-years-020626503597",
+      "found_on": "2026-06-02",
+      "found_at": "2026-06-02 17:10",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 193,
+      "title": "DevOps Automation Engineer",
+      "company": "Proxelera",
+      "location": "Bengaluru, Hubli, Mangaluru, Mysuru, Belgaum",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "UbuntuAutomationgithubVersion controlGITLinuxShell scriptingX86",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-automation-engineer-proxelera-hubli-mangaluru-mysuru-bengaluru-belgaum-3-to-7-years-020626503192",
+      "found_on": "2026-06-02",
+      "found_at": "2026-06-02 17:11",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 194,
+      "title": "Python Developer",
+      "company": "Tech Mahindra",
+      "location": "Hybrid - Bengaluru, Hyderabad, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "AWSPythonGithubPython DevelopmentDevelopment",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-developer-tech-mahindra-hyderabad-pune-bengaluru-4-to-7-years-020626027123",
+      "found_on": "2026-06-02",
+      "found_at": "2026-06-02 17:12",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
