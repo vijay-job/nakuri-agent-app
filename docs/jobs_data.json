@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02 17:12",
+  "last_updated": "2026-06-03 08:32",
   "total_applied": 14,
-  "total_manual": 194,
+  "total_manual": 196,
   "applied_jobs": [
     {
       "id": 1,
@@ -3313,6 +3313,38 @@
       "url": "https://www.naukri.com/job-listings-python-developer-tech-mahindra-hyderabad-pune-bengaluru-4-to-7-years-020626027123",
       "found_on": "2026-06-02",
       "found_at": "2026-06-02 17:12",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 195,
+      "title": "DevOps Engineer - Airflow Admin",
+      "company": "Optum",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "architecturekubernetespythontechnical leadershipprototypingairflowcustomer serviceai",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-airflow-admin-optum-global-solutions-india-private-limited-bengaluru-3-to-8-years-030626913670",
+      "found_on": "2026-06-03",
+      "found_at": "2026-06-03 08:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 196,
+      "title": "Java Full Stack Developer with AWS - Bangalore",
+      "company": "Larsen & Toubro (L&T)",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "JavaSpring BootAWSJava Spring BootJava DevelopmentJava FullstackSpringFull Stack",
+      "score": 70,
+      "reason": "Keyword match: 1 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-with-aws-bangalore-larsen-toubro-l-t-bengaluru-4-to-6-years-020626013807",
+      "found_on": "2026-06-03",
+      "found_at": "2026-06-03 08:32",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
