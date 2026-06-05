@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04 16:08",
+  "last_updated": "2026-06-05 07:18",
   "total_applied": 14,
-  "total_manual": 209,
+  "total_manual": 211,
   "applied_jobs": [
     {
       "id": 1,
@@ -3553,6 +3553,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-siima-technologies-hyderabad-4-to-9-years-040626500878",
       "found_on": "2026-06-04",
       "found_at": "2026-06-04 16:08",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 210,
+      "title": "Senior Devops Engineer (Immediate joiners only)",
+      "company": "Indian Institute of Science (IISC)",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "DockerKubernetesContainerizationDevops ToolsDevopsSeniorTools",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-immediate-joiners-only-indian-institute-of-science-iisc-bengaluru-2-to-6-years-050626004849",
+      "found_on": "2026-06-05",
+      "found_at": "2026-06-05 07:17",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 211,
+      "title": "Python Fullstack Developer",
+      "company": "Globallogic",
+      "location": "Bengaluru, Pune, Delhi / NCR",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "Fast ApiReact.JsPythonTypescriptAzure CloudDjangoAWSDevops",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-globallogic-pune-bengaluru-delhi-ncr-4-to-6-years-050626011129",
+      "found_on": "2026-06-05",
+      "found_at": "2026-06-05 07:18",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
