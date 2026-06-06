@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05 15:49",
+  "last_updated": "2026-06-06 06:40",
   "total_applied": 14,
-  "total_manual": 222,
+  "total_manual": 225,
   "applied_jobs": [
     {
       "id": 1,
@@ -3761,6 +3761,54 @@
       "url": "https://www.naukri.com/job-listings-hiring-manager-azure-devops-engineer-nabkisan-finance-ltd-nabkisan-finance-hyderabad-4-to-6-years-050626022527",
       "found_on": "2026-06-05",
       "found_at": "2026-06-05 15:49",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 223,
+      "title": "Hiring GCP DevOps Engineer | Leading Indian MNC | Bangalore | 4-7 Year",
+      "company": "Indian MNC",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "devopsGcp CloudJenkinsTerraformMicroservicesKubernetesCloudIndian",
+      "score": 75,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-hiring-gcp-devops-engineer-leading-indian-mnc-bangalore-4-7-year-technomech-placements-bengaluru-4-to-8-years-050626026309",
+      "found_on": "2026-06-06",
+      "found_at": "2026-06-06 06:37",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 224,
+      "title": "Senior Software Engineer",
+      "company": "Wells Fargo",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "software engineerkubernetespythongithubdata pipelinestomcatsecurity toolscloud platforms",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-4-to-9-years-050626924200",
+      "found_on": "2026-06-06",
+      "found_at": "2026-06-06 06:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 225,
+      "title": "Senior Full Stack Developer",
+      "company": "Millennium Consulting",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "full-stack developmentkubernetesrestpythongithubfull stack developeraccountingsql server",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-millennium-consulting-india-private-limited-bengaluru-3-to-7-years-050626924819",
+      "found_on": "2026-06-06",
+      "found_at": "2026-06-06 06:40",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
