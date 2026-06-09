@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09 07:02",
+  "last_updated": "2026-06-09 10:54",
   "total_applied": 14,
-  "total_manual": 249,
+  "total_manual": 250,
   "applied_jobs": [
     {
       "id": 1,
@@ -4193,6 +4193,22 @@
       "url": "https://www.naukri.com/job-listings-associate-is-engineer-devops-amgen-inc-hyderabad-2-to-5-years-080626934212",
       "found_on": "2026-06-09",
       "found_at": "2026-06-09 07:02",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 250,
+      "title": "JAVA AWS Developer",
+      "company": "Capgemini",
+      "location": "Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "Aws JavaECSAmazon CloudwatchSpring BootMicroservicesJavaLambda ExpressionsAmazon Ec2",
+      "score": 70,
+      "reason": "Keyword match: 1 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-aws-developer-capgemini-bangalore-rural-bengaluru-4-to-9-years-230126014423",
+      "found_on": "2026-06-09",
+      "found_at": "2026-06-09 10:54",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
