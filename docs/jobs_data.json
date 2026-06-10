@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-10 11:19",
+  "last_updated": "2026-06-10 16:23",
   "total_applied": 14,
-  "total_manual": 260,
+  "total_manual": 263,
   "applied_jobs": [
     {
       "id": 1,
@@ -4369,6 +4369,54 @@
       "url": "https://www.naukri.com/job-listings-golang-developer-react-azure-cloud-vrinda-international-hyderabad-4-to-10-years-100626502416",
       "found_on": "2026-06-10",
       "found_at": "2026-06-10 11:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 261,
+      "title": "Principal DevOps Engineer",
+      "company": "India Health Link",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "kubernetespythonorchestrationmicrosoft azureengineeringdockerinfrastructure architectureansible",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-principal-devops-engineer-india-health-link-pvt-ltd-hyderabad-4-to-8-years-100626502862",
+      "found_on": "2026-06-10",
+      "found_at": "2026-06-10 16:21",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 262,
+      "title": "DevOps Engineer",
+      "company": "Skyhigh security",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AutomationOperational excellenceGITLinuxGCPdata securityCloudjenkins",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-skyhigh-security-bengaluru-2-to-5-years-100626505270",
+      "found_on": "2026-06-10",
+      "found_at": "2026-06-10 16:23",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 263,
+      "title": "Sr Site Reliability Engineer - Middleware, DevOps & Cloud",
+      "company": "Visa Consolidated Support Services India",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "devopskubernetestomcatsite reliabilityartificial intelligencedockeransiblecloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sr-site-reliability-engineer-middleware-devops-cloud-visa-consolidated-support-services-india-pvt-ltd-bengaluru-3-to-7-years-100626929990",
+      "found_on": "2026-06-10",
+      "found_at": "2026-06-10 16:23",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
