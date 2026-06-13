@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-12 15:58",
+  "last_updated": "2026-06-13 07:08",
   "total_applied": 14,
-  "total_manual": 280,
+  "total_manual": 281,
   "applied_jobs": [
     {
       "id": 1,
@@ -4689,6 +4689,22 @@
       "url": "https://www.naukri.com/job-listings-production-support-engineer-azure-kubernetes-linux-4-years-crescendo-global-leadership-hiring-india-hyderabad-4-to-8-years-120626022792",
       "found_on": "2026-06-12",
       "found_at": "2026-06-12 15:58",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 281,
+      "title": "IT Solutions Management Professional",
+      "company": "Applied Materials",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "continuous integrationpythonsoftware developmentci/cdawskubernetesmicrosoft azurepython development",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-it-solutions-management-professional-applied-materials-india-private-limited-bengaluru-3-to-8-years-120626918598",
+      "found_on": "2026-06-13",
+      "found_at": "2026-06-13 07:08",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
