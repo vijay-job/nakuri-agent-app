@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-13 07:08",
+  "last_updated": "2026-06-15 09:33",
   "total_applied": 14,
-  "total_manual": 281,
+  "total_manual": 284,
   "applied_jobs": [
     {
       "id": 1,
@@ -4705,6 +4705,54 @@
       "url": "https://www.naukri.com/job-listings-it-solutions-management-professional-applied-materials-india-private-limited-bengaluru-3-to-8-years-120626918598",
       "found_on": "2026-06-13",
       "found_at": "2026-06-13 07:08",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 282,
+      "title": "Full stack Eng- Devops, AWS, python, CI/CD, Jenkins, Docker -Bangalore",
+      "company": "Mastek",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "CloudAWSJenkinsDockerFullstack DevelopmentCi/CdDevopsPython",
+      "score": 85,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-full-stack-eng-devops-aws-python-ci-cd-jenkins-docker-bangalore-mastek-bengaluru-4-to-9-years-150626009216",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 09:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 283,
+      "title": "Azure DevOps Engineer",
+      "company": "Opstree Solutions",
+      "location": "Hyderabad, Noida, Mumbai",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "continuous integrationkubernetesci/cdhibernateazure devopsapache tomcatdockeransible",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-opstree-solutions-noida-mumbai-hyderabad-3-to-6-years-150626500037",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 09:32",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 284,
+      "title": "Devops Engineer / Chennai / Bengaluru / Immediate Joiner",
+      "company": "Mount Talent Consulting",
+      "location": "Bengaluru, Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "DevopsJenkinsAZureCi Cd PipelineTerraformGCPCi/CdAWS",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-chennai-bengaluru-immediate-joiner-mount-talent-consulting-chennai-bengaluru-4-to-9-years-080426026628",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 09:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
