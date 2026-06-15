@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-15 13:41",
+  "last_updated": "2026-06-15 17:38",
   "total_applied": 14,
-  "total_manual": 289,
+  "total_manual": 290,
   "applied_jobs": [
     {
       "id": 1,
@@ -4833,6 +4833,22 @@
       "url": "https://www.naukri.com/job-listings-python-selenium-professional-krazy-mantra-it-pvt-ltd-bhubaneswar-hyderabad-chennai-bengaluru-2-to-7-years-150626503612",
       "found_on": "2026-06-15",
       "found_at": "2026-06-15 13:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 290,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "devops engineerkubernetescontinuous integrationcloud automationdocker swarmcloud technologiesdockercloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-6-years-150626928741",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 17:38",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
