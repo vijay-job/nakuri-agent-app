@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16 12:32",
+  "last_updated": "2026-06-16 17:37",
   "total_applied": 14,
-  "total_manual": 302,
+  "total_manual": 304,
   "applied_jobs": [
     {
       "id": 1,
@@ -5041,6 +5041,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-jenkins-ci-cd-aws-terraform-cloudformation-skyhigh-security-bengaluru-2-to-5-years-160626500547",
       "found_on": "2026-06-16",
       "found_at": "2026-06-16 12:32",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 303,
+      "title": "Devops Engineer",
+      "company": "Tarento Technologies",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-4 Yrs",
+      "skills": "kubernetescontinuous integrationcdpythonorchestrationmicrosoft azureci/cddocker",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-tarento-technologies-pvt-ltd-bengaluru-2-to-4-years-160626503306",
+      "found_on": "2026-06-16",
+      "found_at": "2026-06-16 17:36",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 304,
+      "title": "Level II - SDET",
+      "company": "HCA Healthcare",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "continuous integrationcucumberci/cdspec flowjmeterazure devopsdockergit",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-level-ii-sdet-hca-healthcare-hyderabad-3-to-8-years-160626504314",
+      "found_on": "2026-06-16",
+      "found_at": "2026-06-16 17:37",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
