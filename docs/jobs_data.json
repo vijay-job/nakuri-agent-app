@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16 09:03",
+  "last_updated": "2026-06-16 12:32",
   "total_applied": 14,
-  "total_manual": 301,
+  "total_manual": 302,
   "applied_jobs": [
     {
       "id": 1,
@@ -5025,6 +5025,22 @@
       "url": "https://www.naukri.com/job-listings-agentic-ai-developer-hyderabad-bangalore-kolkata-immediate-joiner-contactx-resource-management-kolkata-hyderabad-bengaluru-2-to-7-years-160626013279",
       "found_on": "2026-06-16",
       "found_at": "2026-06-16 09:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 302,
+      "title": "DevOps Engineer - Jenkins | Ci/Cd|AWS|Terraform|CloudFormation",
+      "company": "Skyhigh Security",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AutomationOperational excellenceGITLinuxGCPdata securityCloudjenkins",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-jenkins-ci-cd-aws-terraform-cloudformation-skyhigh-security-bengaluru-2-to-5-years-160626500547",
+      "found_on": "2026-06-16",
+      "found_at": "2026-06-16 12:32",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
