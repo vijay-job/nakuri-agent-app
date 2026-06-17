@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16 17:37",
+  "last_updated": "2026-06-17 08:36",
   "total_applied": 14,
-  "total_manual": 304,
+  "total_manual": 306,
   "applied_jobs": [
     {
       "id": 1,
@@ -5073,6 +5073,38 @@
       "url": "https://www.naukri.com/job-listings-level-ii-sdet-hca-healthcare-hyderabad-3-to-8-years-160626504314",
       "found_on": "2026-06-16",
       "found_at": "2026-06-16 17:37",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 305,
+      "title": "CloudOps-DevOps Engineer-Java-Senior",
+      "company": "EY",
+      "location": "Hybrid - Chennai, Hyderabad, Mumbai (All Areas)",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "Azure CloudJava Spring BootServicenow ItsmAzure DevopsSQLJenkinsGithubBitbucket",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloudops-devops-engineer-java-senior-ey-hyderabad-chennai-mumbai-all-areas-3-to-7-years-170626012433",
+      "found_on": "2026-06-17",
+      "found_at": "2026-06-17 08:35",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 306,
+      "title": "Associate Technical Architect - Cloud Infra (CL1)",
+      "company": "Microland",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "kubernetespythondocumentationmicrosoft azureinfrastructure architecturedockertechnical architecturejava",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-technical-architect-cloud-infra-cl1-microland-limited-bengaluru-2-to-7-years-160626503369",
+      "found_on": "2026-06-17",
+      "found_at": "2026-06-17 08:36",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
