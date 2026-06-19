@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18 11:45",
+  "last_updated": "2026-06-19 08:41",
   "total_applied": 14,
-  "total_manual": 312,
+  "total_manual": 314,
   "applied_jobs": [
     {
       "id": 1,
@@ -5201,6 +5201,38 @@
       "url": "https://www.naukri.com/job-listings-cloud-engineer-cognizant-hyderabad-4-to-6-years-180626019218",
       "found_on": "2026-06-18",
       "found_at": "2026-06-18 11:45",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 313,
+      "title": "Senior Devops Engineer",
+      "company": "News Technology Services",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "TeraformDockerDevopsAWSKubernetesJenkinsGithubCi/Cd",
+      "score": 90,
+      "reason": "Keyword match: 7 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-news-technology-services-bengaluru-4-to-7-years-180626040709",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 08:39",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 314,
+      "title": "Senior Angular and Python Developer - Immediate Joiners",
+      "company": "iLink Digital",
+      "location": "Hybrid - Hyderabad(Serilingampalle)",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "AngularPythonGCPAzure CloudAWSPython DevelopmentCloudDevelopment",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-angular-and-python-developer-immediate-joiners-ilink-digital-hyderabad-3-to-7-years-190626013070",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 08:41",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
