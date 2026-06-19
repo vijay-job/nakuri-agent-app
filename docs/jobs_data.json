@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19 08:41",
+  "last_updated": "2026-06-19 11:55",
   "total_applied": 14,
-  "total_manual": 314,
+  "total_manual": 316,
   "applied_jobs": [
     {
       "id": 1,
@@ -5233,6 +5233,38 @@
       "url": "https://www.naukri.com/job-listings-senior-angular-and-python-developer-immediate-joiners-ilink-digital-hyderabad-3-to-7-years-190626013070",
       "found_on": "2026-06-19",
       "found_at": "2026-06-19 08:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 315,
+      "title": "Senior Software Engineer - Devops",
+      "company": "Roku",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "kubernetescontinuous integrationpythonc++software developmentmicrosoft azuredockeransible",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-devops-roku-bengaluru-2-to-7-years-190626500723",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 11:54",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 316,
+      "title": "SailPoint Identity Security Cloud (ISC) Developer",
+      "company": "Qloron Technology",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "c#kubernetescontinuous integrationpythoncloud developmentmicrosoft azurehibernatedocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-sailpoint-identity-security-cloud-isc-developer-qloron-pvt-ltd-bengaluru-4-to-9-years-190626500773",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 11:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
