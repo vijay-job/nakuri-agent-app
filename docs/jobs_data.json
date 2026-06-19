@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19 11:55",
+  "last_updated": "2026-06-19 15:57",
   "total_applied": 14,
-  "total_manual": 316,
+  "total_manual": 319,
   "applied_jobs": [
     {
       "id": 1,
@@ -5265,6 +5265,54 @@
       "url": "https://www.naukri.com/job-listings-sailpoint-identity-security-cloud-isc-developer-qloron-pvt-ltd-bengaluru-4-to-9-years-190626500773",
       "found_on": "2026-06-19",
       "found_at": "2026-06-19 11:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 317,
+      "title": "Cloud / DevOps Engineer",
+      "company": "Santhila Databot",
+      "location": "Chennai, Madurai, Tiruppur, Salem, Tiruchirapalli, Coimbatore",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "kubernetescontinuous integrationpythongithubmavenmicrosoft azureansibledocker",
+      "score": 90,
+      "reason": "Keyword match: 7 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-devops-engineer-santhila-databot-private-limited-madurai-tiruppur-salem-chennai-tiruchirapalli-coimbatore-3-to-7-years-190626504329",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 15:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 318,
+      "title": "DevOps Engineers",
+      "company": "Vate Digital Technologies",
+      "location": "Bengaluru, Chennai, Hyderabad, Noida, Pune",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "continuous integrationcdkubernetesgithubnexusnginxsonarqubenagios",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineers-vate-digital-technologies-noida-hyderabad-pune-chennai-bengaluru-2-to-7-years-190626504351",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 15:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 319,
+      "title": "Cloud Architects",
+      "company": "Vate Digital Technologies",
+      "location": "Bengaluru, Chennai, Hyderabad, Noida, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "kubernetespythoncloud securityenterprise architecturemicrosoft azuredockermicroservicesinfrastructure architecture",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-architects-vate-digital-technologies-noida-hyderabad-pune-chennai-bengaluru-4-to-8-years-190626504350",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 15:57",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
