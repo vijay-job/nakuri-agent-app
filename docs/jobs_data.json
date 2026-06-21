@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19 15:57",
+  "last_updated": "2026-06-21 08:07",
   "total_applied": 14,
-  "total_manual": 319,
+  "total_manual": 320,
   "applied_jobs": [
     {
       "id": 1,
@@ -5313,6 +5313,22 @@
       "url": "https://www.naukri.com/job-listings-cloud-architects-vate-digital-technologies-noida-hyderabad-pune-chennai-bengaluru-4-to-8-years-190626504350",
       "found_on": "2026-06-19",
       "found_at": "2026-06-19 15:57",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 320,
+      "title": "Azure Devops (6 locations)",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Chennai, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "Ci Cd PipelineTerraformAnsibleAzure DevopsAzure Kubernetes ServiceDockerInfrastructure As CodeSnyk",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-6-locations-tata-consultancy-services-hyderabad-chennai-bengaluru-4-to-8-years-210626003487",
+      "found_on": "2026-06-21",
+      "found_at": "2026-06-21 08:07",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
