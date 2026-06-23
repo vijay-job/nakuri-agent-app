@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-22 13:22",
+  "last_updated": "2026-06-23 06:59",
   "total_applied": 14,
-  "total_manual": 325,
+  "total_manual": 327,
   "applied_jobs": [
     {
       "id": 1,
@@ -5409,6 +5409,38 @@
       "url": "https://www.naukri.com/job-listings-sr-devops-engineer-hca-healthcare-hyderabad-3-to-7-years-220626503839",
       "found_on": "2026-06-22",
       "found_at": "2026-06-22 13:22",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 326,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "devops engineerkubernetespythonchefiaccloud technologiesdockeransible",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-220626933803",
+      "found_on": "2026-06-23",
+      "found_at": "2026-06-23 06:57",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 327,
+      "title": "DevOps Engineer",
+      "company": "Triangle Global",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "cdcontinuous integrationkubernetespythonci/cdmicrosoft azureiacazure devops",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-triangle-global-chennai-3-to-6-years-230626500045",
+      "found_on": "2026-06-23",
+      "found_at": "2026-06-23 06:59",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
