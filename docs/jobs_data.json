@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-24 15:24",
+  "last_updated": "2026-06-25 06:55",
   "total_applied": 14,
-  "total_manual": 347,
+  "total_manual": 348,
   "applied_jobs": [
     {
       "id": 1,
@@ -5761,6 +5761,22 @@
       "url": "https://www.naukri.com/job-listings-aws-databricks-platform-engineer-qualcomm-india-pvt-ltd-hyderabad-bengaluru-3-to-4-years-240626925080",
       "found_on": "2026-06-24",
       "found_at": "2026-06-24 15:24",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 348,
+      "title": "Junior Full Stack Developer",
+      "company": "Impelsys",
+      "location": "Hybrid - Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "Fast ApiJavascriptAWSPythonCi Cd PipelineGithubCi/CdJenkins",
+      "score": 80,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-junior-full-stack-developer-impelsys-bangalore-rural-bengaluru-3-to-6-years-250626014314",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 06:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
