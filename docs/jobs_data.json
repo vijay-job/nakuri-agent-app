@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25 06:55",
+  "last_updated": "2026-06-25 10:30",
   "total_applied": 14,
-  "total_manual": 348,
+  "total_manual": 349,
   "applied_jobs": [
     {
       "id": 1,
@@ -5777,6 +5777,22 @@
       "url": "https://www.naukri.com/job-listings-junior-full-stack-developer-impelsys-bangalore-rural-bengaluru-3-to-6-years-250626014314",
       "found_on": "2026-06-25",
       "found_at": "2026-06-25 06:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 349,
+      "title": "DevOps Engineer",
+      "company": "Winjit Technologies",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "kubernetescontinuous integrationpythonmavenredhat linuxmicrosoft azureinfrastructure architectureansible",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-winjit-technologies-pvt-ltd-hyderabad-3-to-6-years-250626500849",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 10:30",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
