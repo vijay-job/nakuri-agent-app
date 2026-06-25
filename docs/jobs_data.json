@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25 10:30",
+  "last_updated": "2026-06-25 15:32",
   "total_applied": 14,
-  "total_manual": 349,
+  "total_manual": 352,
   "applied_jobs": [
     {
       "id": 1,
@@ -5793,6 +5793,54 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-winjit-technologies-pvt-ltd-hyderabad-3-to-6-years-250626500849",
       "found_on": "2026-06-25",
       "found_at": "2026-06-25 10:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 350,
+      "title": "Jr. Dev Ops Engineer",
+      "company": "Neurealm",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "containerkubernetescdpythongithuborchestrationazure monitoringaks",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-jr-dev-ops-engineer-gs-lab-gavs-chennai-3-to-5-years-250626501120",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 15:29",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 351,
+      "title": "DevOps Engineer - Cloud Infrastructure & Platform Engineering",
+      "company": "Mymoneykarma",
+      "location": "Bengaluru, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "AutomationgithubUsageNetworkingdevopsDNSInfrastructureCost optimization",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-cloud-infrastructure-platform-engineering-mymoneykarma-hyderabad-bengaluru-3-to-6-years-250626501446",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 15:29",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 352,
+      "title": "Azure Devops Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "TerraformAzure DevopsKubernetesDevopsMicrosoft Azure",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-tata-consultancy-services-bengaluru-4-to-9-years-250626035814",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 15:32",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
