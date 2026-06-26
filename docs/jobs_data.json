@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26 07:04",
+  "last_updated": "2026-06-26 10:44",
   "total_applied": 14,
-  "total_manual": 353,
+  "total_manual": 355,
   "applied_jobs": [
     {
       "id": 1,
@@ -5857,6 +5857,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-kiya-ai-chennai-2-to-5-years-260626005181",
       "found_on": "2026-06-26",
       "found_at": "2026-06-26 07:04",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 354,
+      "title": "DevOps Engineer",
+      "company": "Purpletalk",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "cdcontinuous integrationkubernetespythonsonarqubeci/cdmicrosoft azureazure devops server",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-purpletalk-hyderabad-3-to-7-years-260626500872",
+      "found_on": "2026-06-26",
+      "found_at": "2026-06-26 10:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 355,
+      "title": "DevOps Engineer - Cloud Infrastructure & Platform Engineering",
+      "company": "Mymoneykarma",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "AutomationgithubUsageNetworkingdevopsDNSInfrastructureCost optimization",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-cloud-infrastructure-platform-engineering-mymoneykarma-bengaluru-3-to-6-years-260626501149",
+      "found_on": "2026-06-26",
+      "found_at": "2026-06-26 10:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
