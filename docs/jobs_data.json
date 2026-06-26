@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25 15:32",
+  "last_updated": "2026-06-26 07:04",
   "total_applied": 14,
-  "total_manual": 352,
+  "total_manual": 353,
   "applied_jobs": [
     {
       "id": 1,
@@ -5841,6 +5841,22 @@
       "url": "https://www.naukri.com/job-listings-azure-devops-engineer-tata-consultancy-services-bengaluru-4-to-9-years-250626035814",
       "found_on": "2026-06-25",
       "found_at": "2026-06-25 15:32",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 353,
+      "title": "Devops Engineer",
+      "company": "Kiya.ai",
+      "location": "Hybrid - Chennai",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "Ci Cd PipelineIbm CloudjenkinsKubernetesansibleAutomationBash ScriptingDocker",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-kiya-ai-chennai-2-to-5-years-260626005181",
+      "found_on": "2026-06-26",
+      "found_at": "2026-06-26 07:04",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
