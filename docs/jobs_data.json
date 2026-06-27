@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26 15:19",
+  "last_updated": "2026-06-27 06:41",
   "total_applied": 14,
-  "total_manual": 359,
+  "total_manual": 361,
   "applied_jobs": [
     {
       "id": 1,
@@ -5953,6 +5953,38 @@
       "url": "https://www.naukri.com/job-listings-python-developer-third-party-payroll-crisil-analytices-hyderabad-2-to-5-years-260626501568",
       "found_on": "2026-06-26",
       "found_at": "2026-06-26 15:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 360,
+      "title": "Python Engineer",
+      "company": "ALZA Karriere",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "DockerCi/CdKubernetesUnixC++LinuxRest Api DevelopmentPython",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-engineer-alza-karriere-bengaluru-4-to-6-years-260626014885",
+      "found_on": "2026-06-27",
+      "found_at": "2026-06-27 06:39",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 361,
+      "title": "Gen AI Full Stack Developer - 4+ Yrs - Bangalore",
+      "company": "Crescendo Global Leadership Hiring India",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "Full StackGenerative AillmMicroservicesDockerFullstack DevelopmentGCPAzure Cloud",
+      "score": 70,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-gen-ai-full-stack-developer-4-yrs-bangalore-crescendo-global-leadership-hiring-india-bengaluru-4-to-7-years-260626032941",
+      "found_on": "2026-06-27",
+      "found_at": "2026-06-27 06:41",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
