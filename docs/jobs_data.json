@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-27 06:41",
+  "last_updated": "2026-06-27 09:44",
   "total_applied": 14,
-  "total_manual": 361,
+  "total_manual": 362,
   "applied_jobs": [
     {
       "id": 1,
@@ -5985,6 +5985,22 @@
       "url": "https://www.naukri.com/job-listings-gen-ai-full-stack-developer-4-yrs-bangalore-crescendo-global-leadership-hiring-india-bengaluru-4-to-7-years-260626032941",
       "found_on": "2026-06-27",
       "found_at": "2026-06-27 06:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 362,
+      "title": "Python Devops Engineer",
+      "company": "Datamatics",
+      "location": "Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "2-4 Yrs",
+      "skills": "fast apiGITDjangoCloudDevopsPythonFlaskSQL",
+      "score": 80,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-devops-engineer-datamatics-bangalore-rural-bengaluru-2-to-4-years-270626003690",
+      "found_on": "2026-06-27",
+      "found_at": "2026-06-27 09:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
