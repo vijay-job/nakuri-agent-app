@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-30 15:21",
+  "last_updated": "2026-07-01 11:05",
   "total_applied": 14,
-  "total_manual": 391,
+  "total_manual": 392,
   "applied_jobs": [
     {
       "id": 1,
@@ -6465,6 +6465,22 @@
       "url": "https://www.naukri.com/job-listings-sr-machine-learning-engineer-amgen-inc-hyderabad-3-to-5-years-300626929759",
       "found_on": "2026-06-30",
       "found_at": "2026-06-30 15:21",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 392,
+      "title": "Cloud Platform Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "stakeholder managementanalytics cloudkubernetespythonoraclemicrosoft azurecloud platformdocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-platform-engineer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-010726917496",
+      "found_on": "2026-07-01",
+      "found_at": "2026-07-01 11:05",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
