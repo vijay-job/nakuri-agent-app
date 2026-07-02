@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-02 10:34",
+  "last_updated": "2026-07-02 14:46",
   "total_applied": 14,
-  "total_manual": 412,
+  "total_manual": 414,
   "applied_jobs": [
     {
       "id": 1,
@@ -6801,6 +6801,38 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-2-sdet-black-duck-software-bengaluru-2-to-5-years-020726009270",
       "found_on": "2026-07-02",
       "found_at": "2026-07-02 10:34",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 413,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "devops engineerpythongithubiacnetworkingcloud technologiesalertingincident response",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-020726920938",
+      "found_on": "2026-07-02",
+      "found_at": "2026-07-02 14:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 414,
+      "title": "AI Engineer",
+      "company": "Ellowio",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "pythonnatural language processingneural networksaws sagemakerengineeringmachine learningazure devopsartificial intelligence",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-ai-engineer-ellow-io-hyderabad-4-to-9-years-020726503087",
+      "found_on": "2026-07-02",
+      "found_at": "2026-07-02 14:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
