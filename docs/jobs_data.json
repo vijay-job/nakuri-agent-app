@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-04 06:27",
+  "last_updated": "2026-07-06 07:19",
   "total_applied": 14,
-  "total_manual": 424,
+  "total_manual": 425,
   "applied_jobs": [
     {
       "id": 1,
@@ -6993,6 +6993,22 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-hiringeye-solutions-hyderabad-bengaluru-3-to-8-years-030726031866",
       "found_on": "2026-07-04",
       "found_at": "2026-07-04 06:27",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 425,
+      "title": "Python AI/ML Engineer",
+      "company": "Moolya Software Testing",
+      "location": "Hybrid - Hyderabad, Noida, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "GITML InfrastructureML workloadAWSPythonSageMakerS3Docker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-ai-ml-engineer-moolya-software-testing-noida-hyderabad-gurugram-3-to-5-years-060726001233",
+      "found_on": "2026-07-06",
+      "found_at": "2026-07-06 07:19",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
