@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07 15:37",
+  "last_updated": "2026-07-08 10:02",
   "total_applied": 14,
-  "total_manual": 446,
+  "total_manual": 448,
   "applied_jobs": [
     {
       "id": 1,
@@ -7345,6 +7345,38 @@
       "url": "https://www.naukri.com/job-listings-azure-cloud-engineer-kastech-software-solutions-india-private-limited-warangal-hyderabad-nizamabad-4-to-8-years-070726500917",
       "found_on": "2026-07-07",
       "found_at": "2026-07-07 15:37",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 447,
+      "title": "DevOps Engineer Azure",
+      "company": "Epam Systems",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "DockerTerraformCi/CdKubernetesPythonMicrosoft AzureAzure DevopsContinuous Integration",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-azure-epam-systems-bengaluru-4-to-7-years-080726012783",
+      "found_on": "2026-07-08",
+      "found_at": "2026-07-08 10:02",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 448,
+      "title": "Python Cloud Developer",
+      "company": "IBM",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "PythonAws CloudformationAmazon Ec2GithubSpring BootDevopsMicroservicesJenkins",
+      "score": 80,
+      "reason": "Keyword match: 6 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-cloud-developer-ibm-india-pvt-limited-bengaluru-3-to-6-years-080726914530",
+      "found_on": "2026-07-08",
+      "found_at": "2026-07-08 10:02",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
