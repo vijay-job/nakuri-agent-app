@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-10 06:55",
+  "last_updated": "2026-07-10 10:44",
   "total_applied": 14,
-  "total_manual": 465,
+  "total_manual": 467,
   "applied_jobs": [
     {
       "id": 1,
@@ -7649,6 +7649,38 @@
       "url": "https://www.naukri.com/job-listings-senior-ai-platform-engineer-lexsi-labs-bengaluru-3-to-6-years-090726506804",
       "found_on": "2026-07-10",
       "found_at": "2026-07-10 06:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 466,
+      "title": "Dot net developer + AWS with Python(Wipro - Bangalore)",
+      "company": "WrootsGlobal",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "C#.NETAWSECSLambdaPythonLambda ExpressionsDoT",
+      "score": 75,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-dot-net-developer-aws-with-python-wipro-bangalore-wroots-global-bengaluru-4-to-8-years-100726017754",
+      "found_on": "2026-07-10",
+      "found_at": "2026-07-10 10:44",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 467,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "DevopsOrchestrationCdAws CloudformationArchitectureAws CloudPrometheusCi/Cd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-100726913776",
+      "found_on": "2026-07-10",
+      "found_at": "2026-07-10 10:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
