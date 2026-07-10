@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-09 15:52",
+  "last_updated": "2026-07-10 06:55",
   "total_applied": 14,
-  "total_manual": 464,
+  "total_manual": 465,
   "applied_jobs": [
     {
       "id": 1,
@@ -7633,6 +7633,22 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-apple-india-pvt-ltd-bengaluru-2-to-10-years-090726506015",
       "found_on": "2026-07-09",
       "found_at": "2026-07-09 15:52",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 465,
+      "title": "Senior AI Platform Engineer",
+      "company": "Lexsi Labs",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "kubernetespythondataworkflow orchestrationmicrosoft azureengineeringartificial intelligencedocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-ai-platform-engineer-lexsi-labs-bengaluru-3-to-6-years-090726506804",
+      "found_on": "2026-07-10",
+      "found_at": "2026-07-10 06:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
