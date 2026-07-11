@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-11 09:16",
+  "last_updated": "2026-07-11 14:10",
   "total_applied": 14,
-  "total_manual": 473,
+  "total_manual": 474,
   "applied_jobs": [
     {
       "id": 1,
@@ -7777,6 +7777,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-devops-conga-ahmedabad-bengaluru-2-to-5-years-110726009394",
       "found_on": "2026-07-11",
       "found_at": "2026-07-11 09:16",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 474,
+      "title": "AWS(2-5 yrs)-Pan India",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Chennai, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AWSDevOpsCloudMicrosoft AzureMicrosoftPan",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-2-5-yrs-pan-india-infosys-hyderabad-chennai-bengaluru-2-to-5-years-110726013841",
+      "found_on": "2026-07-11",
+      "found_at": "2026-07-11 14:10",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
