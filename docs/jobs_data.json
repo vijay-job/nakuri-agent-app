@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13 06:28",
+  "last_updated": "2026-07-13 10:50",
   "total_applied": 14,
-  "total_manual": 477,
+  "total_manual": 479,
   "applied_jobs": [
     {
       "id": 1,
@@ -7841,6 +7841,38 @@
       "url": "https://www.naukri.com/job-listings-digital-google-cloud-devops-sre-gcp-devops-kubernetes-tata-consultancy-services-chennai-4-to-8-years-110626009186",
       "found_on": "2026-07-13",
       "found_at": "2026-07-13 06:28",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 478,
+      "title": "Cloud Devops Engineer",
+      "company": "LTM",
+      "location": "Bengaluru, Chennai, Coimbatore",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "AWS DevOpsCI CD PipelineTerraformDockerAnsibleHelm ChartsCi/CdArtifactory",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-devops-engineer-ltm-chennai-coimbatore-bengaluru-4-to-9-years-130726009071",
+      "found_on": "2026-07-13",
+      "found_at": "2026-07-13 10:48",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 479,
+      "title": "Site Reliability Engineer",
+      "company": "HCLTech",
+      "location": "Chennai, Noida",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "Site Reliability EngineeringHdata cloudopsKubernetesPythonTerraformLinuxSreSite",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-hcltech-noida-chennai-3-to-5-years-130726014071",
+      "found_on": "2026-07-13",
+      "found_at": "2026-07-13 10:50",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
