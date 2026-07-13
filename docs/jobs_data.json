@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-11 14:10",
+  "last_updated": "2026-07-13 06:28",
   "total_applied": 14,
-  "total_manual": 474,
+  "total_manual": 477,
   "applied_jobs": [
     {
       "id": 1,
@@ -7793,6 +7793,54 @@
       "url": "https://www.naukri.com/job-listings-aws-2-5-yrs-pan-india-infosys-hyderabad-chennai-bengaluru-2-to-5-years-110726013841",
       "found_on": "2026-07-11",
       "found_at": "2026-07-11 14:10",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 475,
+      "title": "DevOps Engineer (Customer Enablement)",
+      "company": "Aliqan Services",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "GCPSaaSMicrosoft AzureProduction SupportAWSMicrosoftDevopsProduction",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-customer-enablement-aliqan-services-bengaluru-3-to-6-years-130726006179",
+      "found_on": "2026-07-13",
+      "found_at": "2026-07-13 06:26",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 476,
+      "title": "Aws Data Engineer",
+      "company": "Capgemini",
+      "location": "Hybrid - Bengaluru, Chennai, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "LamdaAzure platformAWSPythonAWS BatchAWS GlueSQLAzure Chatbot",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-data-engineer-capgemini-hyderabad-chennai-bengaluru-3-to-6-years-130726004508",
+      "found_on": "2026-07-13",
+      "found_at": "2026-07-13 06:27",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 477,
+      "title": "Digital : Google Cloud (DevOps / SRE) - GCP DevOps, Kubernetes",
+      "company": "Tata Consultancy Services",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "DevOps SRE GCP DevOpsSREDigital Google CloudJenkinsDockerTerraformAnsibleCi/Cd",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-digital-google-cloud-devops-sre-gcp-devops-kubernetes-tata-consultancy-services-chennai-4-to-8-years-110626009186",
+      "found_on": "2026-07-13",
+      "found_at": "2026-07-13 06:28",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
