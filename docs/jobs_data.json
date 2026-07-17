@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16 09:49",
+  "last_updated": "2026-07-17 05:56",
   "total_applied": 14,
-  "total_manual": 503,
+  "total_manual": 505,
   "applied_jobs": [
     {
       "id": 1,
@@ -8257,6 +8257,38 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-statusneo-technology-consulting-gurugram-bengaluru-4-to-8-years-160726016482",
       "found_on": "2026-07-16",
       "found_at": "2026-07-16 09:49",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 504,
+      "title": "Software QA Engineer",
+      "company": "Cisco",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "kubernetesgithubinformation technologyadministrationaidnscustomer supportdocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-qa-engineer-cisco-bengaluru-1-to-6-years-160726503017",
+      "found_on": "2026-07-17",
+      "found_at": "2026-07-17 05:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 505,
+      "title": "C++ Middleware Developer - Data Analytics",
+      "company": "BMW Techworks India",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "githubpythoncdata analyticscollectionautomotive infotainmentdata collectiondocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-c-middleware-developer-data-analytics-bmw-techworks-india-private-limited-bengaluru-3-to-8-years-160726501321",
+      "found_on": "2026-07-17",
+      "found_at": "2026-07-17 05:56",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
