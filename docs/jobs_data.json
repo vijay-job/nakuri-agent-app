@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21 06:06",
+  "last_updated": "2026-07-21 10:11",
   "total_applied": 14,
-  "total_manual": 525,
+  "total_manual": 526,
   "applied_jobs": [
     {
       "id": 1,
@@ -8609,6 +8609,22 @@
       "url": "https://www.naukri.com/job-listings-net-c-aws-developer-wroots-global-bangalore-rural-bengaluru-4-to-8-years-200726033902",
       "found_on": "2026-07-21",
       "found_at": "2026-07-21 06:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 526,
+      "title": "Azure DevOps Engineer",
+      "company": "Redolent",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-8 Yrs",
+      "skills": "continuous integrationscriptingpythonautomationautomation toolspython scriptingcompliancedevops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-redolent-inc-bengaluru-2-to-8-years-210726501104",
+      "found_on": "2026-07-21",
+      "found_at": "2026-07-21 10:11",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
