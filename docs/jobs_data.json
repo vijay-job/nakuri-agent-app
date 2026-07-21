@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20 14:51",
+  "last_updated": "2026-07-21 06:06",
   "total_applied": 14,
-  "total_manual": 522,
+  "total_manual": 525,
   "applied_jobs": [
     {
       "id": 1,
@@ -8561,6 +8561,54 @@
       "url": "https://www.naukri.com/job-listings-in-associate-java-backend-with-aws-gcc-advisory-bangalore-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-2-to-4-years-200726506307",
       "found_on": "2026-07-20",
       "found_at": "2026-07-20 14:51",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 523,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "devops engineerkubernetescontinuous integrationsoftware developmentworkdaycloud technologiesdockercloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-6-years-200726929400",
+      "found_on": "2026-07-21",
+      "found_at": "2026-07-21 06:02",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 524,
+      "title": "Associate IS Engineer (Devops)",
+      "company": "Amgen Inc",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "devopskubernetessprintreactdockergitpostgresqliam",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-is-engineer-devops-amgen-inc-hyderabad-2-to-5-years-200726932666",
+      "found_on": "2026-07-21",
+      "found_at": "2026-07-21 06:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 525,
+      "title": ".Net(C#) + AWS Developer",
+      "company": "Wipro",
+      "location": "Hybrid - Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "ECS.NETAWSMicroservicesSQLC#AWS LambdaFargate",
+      "score": 70,
+      "reason": "Keyword match: 1 skills matched",
+      "url": "https://www.naukri.com/job-listings-net-c-aws-developer-wroots-global-bangalore-rural-bengaluru-4-to-8-years-200726033902",
+      "found_on": "2026-07-21",
+      "found_at": "2026-07-21 06:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
