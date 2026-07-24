@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24 05:59",
+  "last_updated": "2026-07-24 10:05",
   "total_applied": 14,
-  "total_manual": 542,
+  "total_manual": 543,
   "applied_jobs": [
     {
       "id": 1,
@@ -8881,6 +8881,22 @@
       "url": "https://www.naukri.com/job-listings-linux-administrator-bengaluru-linux-unix-commands-nam-info-bangalore-rural-bengaluru-3-to-8-years-240726010550",
       "found_on": "2026-07-24",
       "found_at": "2026-07-24 05:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 543,
+      "title": "Software Development Engineer in Test",
+      "company": "Align Technology",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "kubernetespythontest casesmicrosoft azuresqldockerbambooscripting",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-in-test-align-technology-hyderabad-1-to-4-years-240726500008",
+      "found_on": "2026-07-24",
+      "found_at": "2026-07-24 10:05",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
