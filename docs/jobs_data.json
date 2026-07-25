@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24 14:30",
+  "last_updated": "2026-07-25 05:49",
   "total_applied": 14,
-  "total_manual": 549,
+  "total_manual": 550,
   "applied_jobs": [
     {
       "id": 1,
@@ -8993,6 +8993,22 @@
       "url": "https://www.naukri.com/job-listings-senior-administrator-devops-microland-limited-bengaluru-3-to-5-years-240726503672",
       "found_on": "2026-07-24",
       "found_at": "2026-07-24 14:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 550,
+      "title": "Devops Engineer",
+      "company": "Adtran",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "JenkinsDevOpsGITShell/BashPythonGroovyBashShell scripting",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-adtran-bengaluru-2-to-5-years-240726033058",
+      "found_on": "2026-07-25",
+      "found_at": "2026-07-25 05:49",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
