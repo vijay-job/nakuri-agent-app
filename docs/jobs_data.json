@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-27 15:31",
+  "last_updated": "2026-07-28 15:06",
   "total_applied": 14,
-  "total_manual": 558,
+  "total_manual": 560,
   "applied_jobs": [
     {
       "id": 1,
@@ -9137,6 +9137,38 @@
       "url": "https://www.naukri.com/job-listings-application-support-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-270726922745",
       "found_on": "2026-07-27",
       "found_at": "2026-07-27 15:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 559,
+      "title": "Digital : Python with AWS Professional",
+      "company": "Diverse Lynx",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "s3emerging technologiespythonsoftware developmentdata pipelinesprogramming principlescommunication and interpersonal skillsemr",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-digital-python-with-aws-professional-diverse-lynx-bengaluru-2-to-7-years-280726501860",
+      "found_on": "2026-07-28",
+      "found_at": "2026-07-28 15:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 560,
+      "title": "Cloud Platform Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "stakeholder managementanalytics cloudkubernetespythonoraclemicrosoft azurecloud platformdocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-platform-engineer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-280726928744",
+      "found_on": "2026-07-28",
+      "found_at": "2026-07-28 15:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
