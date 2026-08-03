@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31 10:20",
+  "last_updated": "2026-08-03 11:06",
   "total_applied": 14,
-  "total_manual": 568,
+  "total_manual": 571,
   "applied_jobs": [
     {
       "id": 1,
@@ -9297,6 +9297,54 @@
       "url": "https://www.naukri.com/job-listings-genai-data-engineer-with-genai-projects-expertise-python-azure-aws-pwc-hyderabad-pune-bengaluru-4-to-9-years-310726017699",
       "found_on": "2026-07-31",
       "found_at": "2026-07-31 10:20",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 569,
+      "title": "Devops Engineer -Python Automation / Development with Linux",
+      "company": "Tata Consultancy Services",
+      "location": "Hybrid - Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "AutomationDevOpsLinuxPythonJenkins/Artifactory/Prometheus/GrafanaDockergitlab /GithubLinux system management",
+      "score": 85,
+      "reason": "Keyword match: 6 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-python-automation-development-with-linux-tata-consultancy-services-hyderabad-4-to-8-years-030826008739",
+      "found_on": "2026-08-03",
+      "found_at": "2026-08-03 11:01",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 570,
+      "title": "Devops Engineer",
+      "company": "Shell Infotech",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "AWS DevOpsCi/CdLinuxAzure DevOpsPythonJavaMaven GradleBash",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-shell-infotech-bengaluru-3-to-6-years-030826012484",
+      "found_on": "2026-08-03",
+      "found_at": "2026-08-03 11:02",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 571,
+      "title": "Devops Engineer with python, Linux",
+      "company": "Tata Consultancy Services",
+      "location": "Hybrid - Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "python/ shelldocker/ kubernates/ HELMAutomationDevOpsPrometheusKibanaCI/CD ToolsLinux",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-with-python-linux-tata-consultancy-services-hyderabad-4-to-7-years-030826007347",
+      "found_on": "2026-08-03",
+      "found_at": "2026-08-03 11:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
