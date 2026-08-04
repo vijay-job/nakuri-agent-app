@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03 15:32",
+  "last_updated": "2026-08-04 10:21",
   "total_applied": 14,
-  "total_manual": 576,
+  "total_manual": 579,
   "applied_jobs": [
     {
       "id": 1,
@@ -9425,6 +9425,54 @@
       "url": "https://www.naukri.com/job-listings-aws-devops-professional-apex-2000-inc-hyderabad-0-to-9-years-030826503038",
       "found_on": "2026-08-03",
       "found_at": "2026-08-03 15:32",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 577,
+      "title": "Aws Devops Engineer",
+      "company": "Rapyder",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "AWS Devops EngineerJenkinsDockerTerraformPrometheusCi/CdGrafanaKubernetes",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-engineer-rapyder-bengaluru-3-to-6-years-040826022833",
+      "found_on": "2026-08-04",
+      "found_at": "2026-08-04 10:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 578,
+      "title": "AWS DevOps platform Professional",
+      "company": "Fractal Analytics",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "pythonc++cvmwarednsmicrosoft azurenetworkingjavascript",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-platform-professional-fractal-analytics-ltd-bengaluru-4-to-7-years-040826501227",
+      "found_on": "2026-08-04",
+      "found_at": "2026-08-04 10:20",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 579,
+      "title": "Forward Deployed Engineer",
+      "company": "Hunar.Ai",
+      "location": "Bengaluru, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "kubernetespythonsoftware developmentversion controlmicrosoft azuremachine learningartificial intelligencedocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-forward-deployed-engineer-hunar-ai-gurugram-bengaluru-1-to-6-years-040826500829",
+      "found_on": "2026-08-04",
+      "found_at": "2026-08-04 10:21",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
