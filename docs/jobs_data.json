@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07 14:07",
+  "last_updated": "2026-08-08 04:17",
   "total_applied": 14,
-  "total_manual": 619,
+  "total_manual": 620,
   "applied_jobs": [
     {
       "id": 1,
@@ -10113,6 +10113,22 @@
       "url": "https://www.naukri.com/job-listings-it-helpdesk-operations-analyst-acmeminds-solutions-chandigarh-hyderabad-gurugram-4-to-9-years-070826502014",
       "found_on": "2026-08-07",
       "found_at": "2026-08-07 14:07",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 620,
+      "title": "Senior Site Reliability Engineer -Java,Python",
+      "company": "Oracle",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "DevOpsCloudSite Reliability EngineeringIacPythonKubernetesGolangJenkins",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-java-python-oracle-bengaluru-3-to-6-years-070826039147",
+      "found_on": "2026-08-08",
+      "found_at": "2026-08-08 04:17",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
