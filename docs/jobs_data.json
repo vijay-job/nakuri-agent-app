@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-08 04:17",
+  "last_updated": "2026-08-10 09:03",
   "total_applied": 14,
-  "total_manual": 620,
+  "total_manual": 621,
   "applied_jobs": [
     {
       "id": 1,
@@ -10129,6 +10129,22 @@
       "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-java-python-oracle-bengaluru-3-to-6-years-070826039147",
       "found_on": "2026-08-08",
       "found_at": "2026-08-08 04:17",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 621,
+      "title": "AWS DevOps professional",
+      "company": "Tata Digital",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "kubernetescontinuous integrationcircleciaws codedeploydockeransiblegitjava",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-professional-tata-health-bengaluru-3-to-7-years-100826500132",
+      "found_on": "2026-08-10",
+      "found_at": "2026-08-10 09:03",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
