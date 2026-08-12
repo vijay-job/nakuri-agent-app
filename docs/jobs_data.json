@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12 04:56",
+  "last_updated": "2026-08-12 08:54",
   "total_applied": 14,
-  "total_manual": 640,
+  "total_manual": 641,
   "applied_jobs": [
     {
       "id": 1,
@@ -10449,6 +10449,22 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-6-years-110826933687",
       "found_on": "2026-08-12",
       "found_at": "2026-08-12 04:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 641,
+      "title": "IT Applications Analyst, Cloud Engineering",
+      "company": "Caterpillar Inc",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "containercloud engineeragile developmentazure devopscloudautomationbusiness partnershipsaws cloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-it-applications-analyst-cloud-engineering-caterpillar-brazil-bengaluru-4-to-8-years-120826500130",
+      "found_on": "2026-08-12",
+      "found_at": "2026-08-12 08:54",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
