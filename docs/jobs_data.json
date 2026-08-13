@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12 14:11",
+  "last_updated": "2026-08-13 05:00",
   "total_applied": 14,
-  "total_manual": 647,
+  "total_manual": 649,
   "applied_jobs": [
     {
       "id": 1,
@@ -10561,6 +10561,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-120826933812",
       "found_on": "2026-08-12",
       "found_at": "2026-08-12 14:11",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 648,
+      "title": "DevOps Engineer",
+      "company": "Lavu Inc",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "AWSAWS servicesNewRelicKubernetes Linux OSJiraGitLinuxTerraform",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-lavu-inc-hyderabad-3-to-6-years-120826043059",
+      "found_on": "2026-08-13",
+      "found_at": "2026-08-13 04:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 649,
+      "title": "Senior Developer",
+      "company": "International Centre For Excellence (ice)",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "ai assistantskubernetescopilotgithubgenerative aiaimarket datadocker",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-developer-ice-com-hyderabad-2-to-6-years-120826502981",
+      "found_on": "2026-08-13",
+      "found_at": "2026-08-13 05:00",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
