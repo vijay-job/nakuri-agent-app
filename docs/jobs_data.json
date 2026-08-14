@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-14 04:55",
+  "last_updated": "2026-08-14 08:57",
   "total_applied": 14,
-  "total_manual": 655,
+  "total_manual": 657,
   "applied_jobs": [
     {
       "id": 1,
@@ -10689,6 +10689,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-calsoft-kolkata-indore-bengaluru-4-to-8-years-130826033602",
       "found_on": "2026-08-14",
       "found_at": "2026-08-14 04:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 656,
+      "title": "DevOps Engineer",
+      "company": "Datamatics",
+      "location": "Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "JenkinsDevOpsDockerCloudMonitoring ToolsMonitoringTools",
+      "score": 75,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-datamatics-bangalore-rural-bengaluru-3-to-7-years-140826009592",
+      "found_on": "2026-08-14",
+      "found_at": "2026-08-14 08:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 657,
+      "title": "Aws Devops Engineer",
+      "company": "TEKsystems",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "AWS DevOpsCustomer SupportInfrastructureLambda AWSKubernetesJenkinsDevOpsTerraform",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-engineer-allegis-group-bengaluru-4-to-6-years-140826011186",
+      "found_on": "2026-08-14",
+      "found_at": "2026-08-14 08:57",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
