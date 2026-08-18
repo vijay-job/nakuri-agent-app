@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18 03:57",
+  "last_updated": "2026-08-18 08:18",
   "total_applied": 14,
-  "total_manual": 674,
+  "total_manual": 677,
   "applied_jobs": [
     {
       "id": 1,
@@ -10993,6 +10993,54 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-optum-global-solutions-india-private-limited-hyderabad-3-to-8-years-170826932078",
       "found_on": "2026-08-18",
       "found_at": "2026-08-18 03:57",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 675,
+      "title": "Linux +Jenkins+ Docker |24/7 | Bangalore only | Immediate joiners",
+      "company": "Hexaware Technologies",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "JenkinsLinuxKubernetesBrunoBash ScriptingDockerCommandPostman API",
+      "score": 80,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-linux-jenkins-docker-24-7-bangalore-only-immediate-joiners-hexaware-technologies-bengaluru-4-to-6-years-180826020286",
+      "found_on": "2026-08-18",
+      "found_at": "2026-08-18 08:12",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 676,
+      "title": "DevsecOps Engineer",
+      "company": "Mindsprint",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "PowershellBashAWSazureKubernetesDevOps EngineeringTerraformPrometheus",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devsecops-engineer-mindsprint-bengaluru-3-to-8-years-180826011350",
+      "found_on": "2026-08-18",
+      "found_at": "2026-08-18 08:15",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 677,
+      "title": "Senior DevOps Engineer with QA",
+      "company": "Smart Soc Solutions",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-5 Yrs",
+      "skills": "DevOpsQA TestingDevOps AutomationCi/CdJenkinsAgentic AiGITDocker",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-with-qa-smart-soc-solutions-hyderabad-4-to-5-years-180826016926",
+      "found_on": "2026-08-18",
+      "found_at": "2026-08-18 08:18",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
