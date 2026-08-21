@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19 13:37",
+  "last_updated": "2026-08-21 04:06",
   "total_applied": 14,
-  "total_manual": 685,
+  "total_manual": 686,
   "applied_jobs": [
     {
       "id": 1,
@@ -11169,6 +11169,22 @@
       "url": "https://www.naukri.com/job-listings-associate-devops-engineer-optum-global-solutions-india-private-limited-hyderabad-2-to-7-years-190826924113",
       "found_on": "2026-08-19",
       "found_at": "2026-08-19 13:37",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 686,
+      "title": "Security Ticket Resolution Engineer",
+      "company": "Aliqan Services",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "JavaAi TechniquesSecurityAWSPythonAutomationGITLinux",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-security-ticket-resolution-engineer-aliqan-services-bengaluru-4-to-8-years-200826032404",
+      "found_on": "2026-08-21",
+      "found_at": "2026-08-21 04:06",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
