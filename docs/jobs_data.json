@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-22 03:50",
+  "last_updated": "2026-08-24 08:21",
   "total_applied": 14,
-  "total_manual": 690,
+  "total_manual": 693,
   "applied_jobs": [
     {
       "id": 1,
@@ -11249,6 +11249,54 @@
       "url": "https://www.naukri.com/job-listings-in-manager-qa-automation-data-and-analytics-advisory-bangalore-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-4-to-8-years-210826502794",
       "found_on": "2026-08-22",
       "found_at": "2026-08-22 03:50",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 691,
+      "title": "Java AWS Senior Consultant",
+      "company": "Syansoft",
+      "location": "Hybrid - Bengaluru, Gurugram, Delhi / NCR",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "JavaSpring BootSpring Boot FrameworkLambda AWSAWS CloudUnit TestingPostgresqlGithub Actions",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-aws-senior-consultant-syansoft-gurugram-bengaluru-delhi-ncr-4-to-8-years-240826005426",
+      "found_on": "2026-08-24",
+      "found_at": "2026-08-24 08:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 692,
+      "title": "Cloud Infrastructure & DevOps Engineer",
+      "company": "EY",
+      "location": "Hybrid - Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "TerraformAzure CloudAzure DevOpsKubernetesCloudMicrosoft AzureCloud InfrastructureInfrastructure",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-infrastructure-devops-engineer-ey-chennai-4-to-9-years-240826003256",
+      "found_on": "2026-08-24",
+      "found_at": "2026-08-24 08:20",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 693,
+      "title": "SRE - AWS DevOPS Engineer",
+      "company": "Prowess Publishing",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "SREDevOpsAWSProduction SupportKubernetesSite Reliability EngineerCloud OperationsProduction Engineering",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sre-aws-devops-engineer-prowess-publishing-hyderabad-3-to-8-years-240826007515",
+      "found_on": "2026-08-24",
+      "found_at": "2026-08-24 08:21",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
