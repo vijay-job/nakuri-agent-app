@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-24 08:21",
+  "last_updated": "2026-08-25 04:05",
   "total_applied": 14,
-  "total_manual": 693,
+  "total_manual": 696,
   "applied_jobs": [
     {
       "id": 1,
@@ -11297,6 +11297,54 @@
       "url": "https://www.naukri.com/job-listings-sre-aws-devops-engineer-prowess-publishing-hyderabad-3-to-8-years-240826007515",
       "found_on": "2026-08-24",
       "found_at": "2026-08-24 08:21",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 694,
+      "title": "Digital Technology Experienced Professional - DevOps Engineering",
+      "company": "Baker Hughes",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "containerdevops engineeringblack duckartifact managementazure devopsansiblechange controlcloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-digital-technology-experienced-professional-devops-engineering-baker-hughes-the-network-bengaluru-0-to-5-years-240826502942",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 03:56",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 695,
+      "title": "Sr Site Reliability Engineer - Middleware, DevOps & Cloud",
+      "company": "Visa Consolidated Support Services India",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "devopskubernetestomcatsite reliabilityartificial intelligencedockeransiblecloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sr-site-reliability-engineer-middleware-devops-cloud-visa-consolidated-support-services-india-pvt-ltd-bengaluru-3-to-7-years-240826930871",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 04:01",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 696,
+      "title": "Site Reliability Engineer",
+      "company": "Optum",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "AiAutomationAzureComplianceGithubGitopsDevsecopsDeployment",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-optum-global-solutions-india-private-limited-hyderabad-3-to-8-years-240826930725",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 04:05",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
