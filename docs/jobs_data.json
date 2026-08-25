@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25 04:05",
+  "last_updated": "2026-08-25 13:47",
   "total_applied": 14,
-  "total_manual": 696,
+  "total_manual": 699,
   "applied_jobs": [
     {
       "id": 1,
@@ -11345,6 +11345,54 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-optum-global-solutions-india-private-limited-hyderabad-3-to-8-years-240826930725",
       "found_on": "2026-08-25",
       "found_at": "2026-08-25 04:05",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 697,
+      "title": "Cloud Platform Engineer",
+      "company": "Alter Domus",
+      "location": "Hybrid - Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "TerraformAzure CloudCi/CdAWSKubernetesDockerGithubAnsible",
+      "score": 80,
+      "reason": "Keyword match: 6 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-platform-engineer-alter-domus-hyderabad-4-to-7-years-250826022918",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 13:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 698,
+      "title": "SRE Kafka / Infrastructure Operational support | Bangalore",
+      "company": "Tavant",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "DockerKafkaAWSKubernetesPythonOperational SupportOperationsSre",
+      "score": 80,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-sre-kafka-infrastructure-operational-support-bangalore-tavant-bengaluru-4-to-9-years-250826024227",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 13:34",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 699,
+      "title": "Software Engineer III - SRE, Python/Java, AWS, AI",
+      "company": "JPMorgan Chase Bank",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "cloud solutionsaiautomated testingiacaws lambdacachingcode qualitydocker",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-iii-sre-python-java-aws-ai-jp-morgan-and-chase-hyderabad-3-to-8-years-250826501941",
+      "found_on": "2026-08-25",
+      "found_at": "2026-08-25 13:47",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
