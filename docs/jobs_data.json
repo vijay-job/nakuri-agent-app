@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-27 14:16",
+  "last_updated": "2026-08-27 18:31",
   "total_applied": 14,
-  "total_manual": 714,
+  "total_manual": 716,
   "applied_jobs": [
     {
       "id": 1,
@@ -11633,6 +11633,38 @@
       "url": "https://www.naukri.com/job-listings-application-production-support-engineer-radiant-digital-solutions-hyderabad-3-to-5-years-260826027959",
       "found_on": "2026-08-27",
       "found_at": "2026-08-27 14:16",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 715,
+      "title": "AI DevOps Engineer",
+      "company": "AMS",
+      "location": "Bengaluru, Mumbai, Pune",
+      "salary": "Not disclosed",
+      "experience": "3-9 Yrs",
+      "skills": "Ci/CdDevOpsMLopsDockerTerraformLarge Language ModelRetrieval Augmented GenerationKubernetes",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-ai-devops-engineer-ams-mumbai-pune-bengaluru-3-to-9-years-270826030309",
+      "found_on": "2026-08-27",
+      "found_at": "2026-08-27 18:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 716,
+      "title": "Devops Engineer",
+      "company": "Intellicredence",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "AWS DevOpsC#ADF FrameworkAzure DevOpssqlCi/CdnetworkDevops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-intellicredence-bengaluru-4-to-8-years-270826031197",
+      "found_on": "2026-08-27",
+      "found_at": "2026-08-27 18:31",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
