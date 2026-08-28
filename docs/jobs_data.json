@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-27 18:31",
+  "last_updated": "2026-08-28 15:12",
   "total_applied": 14,
-  "total_manual": 716,
+  "total_manual": 719,
   "applied_jobs": [
     {
       "id": 1,
@@ -11665,6 +11665,54 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-intellicredence-bengaluru-4-to-8-years-270826031197",
       "found_on": "2026-08-27",
       "found_at": "2026-08-27 18:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 717,
+      "title": "DevOps Engineer-AWS",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AWS DevOpsCI CD PipelineDockerKubernetesJenkinsTerraformAnsibleCi/Cd",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-aws-infosys-hyderabad-2-to-5-years-280826007732",
+      "found_on": "2026-08-28",
+      "found_at": "2026-08-28 15:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 718,
+      "title": "Linux Administrator",
+      "company": "Neurealm",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "Linux AdministrationKubernetesDockerAdministrationLinux",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-linux-administrator-neurealm-chennai-4-to-8-years-280826009083",
+      "found_on": "2026-08-28",
+      "found_at": "2026-08-28 15:09",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 719,
+      "title": "System Engineer (Infrastructure & Automation)",
+      "company": "Boldtek",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "Linux AdministrationDockerKafkaWindows AdministrationPythonDevOpsShell ScriptingSite Reliability Engineering",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-system-engineer-infrastructure-automation-boldtek-bengaluru-3-to-5-years-050626015186",
+      "found_on": "2026-08-28",
+      "found_at": "2026-08-28 15:12",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
