@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-28 19:40",
+  "last_updated": "2026-08-31 09:30",
   "total_applied": 14,
-  "total_manual": 720,
+  "total_manual": 721,
   "applied_jobs": [
     {
       "id": 1,
@@ -11729,6 +11729,22 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-infosys-hyderabad-chennai-bengaluru-2-to-5-years-280826012167",
       "found_on": "2026-08-28",
       "found_at": "2026-08-28 19:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 721,
+      "title": "Azure Devops Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "DockerAzure DevOpsKubernetesJenkinsTerraformKafkashellscriptGitlab",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-tata-consultancy-services-chennai-4-to-8-years-310826003877",
+      "found_on": "2026-08-31",
+      "found_at": "2026-08-31 09:30",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
