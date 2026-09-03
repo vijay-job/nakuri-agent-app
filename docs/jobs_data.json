@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-02 17:00",
+  "last_updated": "2026-09-03 07:58",
   "total_applied": 14,
-  "total_manual": 745,
+  "total_manual": 746,
   "applied_jobs": [
     {
       "id": 1,
@@ -12129,6 +12129,22 @@
       "url": "https://www.naukri.com/job-listings-cloud-engineer-pragma-edge-software-services-hyderabad-3-to-5-years-020926032798",
       "found_on": "2026-09-02",
       "found_at": "2026-09-02 17:00",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 746,
+      "title": "Senior DevOps Engineer",
+      "company": "Nexthire",
+      "location": "Bengaluru, Noida",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "Devops engineeron premisesKubernetesLinuxPrivate CloudInfrastructureCi/CdMonitoring Tools",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-nexthire-noida-bengaluru-4-to-6-years-030926011122",
+      "found_on": "2026-09-03",
+      "found_at": "2026-09-03 07:58",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
