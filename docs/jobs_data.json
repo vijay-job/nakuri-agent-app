@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-03 07:58",
+  "last_updated": "2026-09-03 16:44",
   "total_applied": 14,
-  "total_manual": 746,
+  "total_manual": 747,
   "applied_jobs": [
     {
       "id": 1,
@@ -12145,6 +12145,22 @@
       "url": "https://www.naukri.com/job-listings-senior-devops-engineer-nexthire-noida-bengaluru-4-to-6-years-030926011122",
       "found_on": "2026-09-03",
       "found_at": "2026-09-03 07:58",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 747,
+      "title": "Senior Software Engineer - DevOps Engineer",
+      "company": "Wells Fargo",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "AnsibleFinancial CrimesAutomationComplianceGithubBi ToolsDevsecopsGithub Actions",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-devops-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-4-to-9-years-030926927766",
+      "found_on": "2026-09-03",
+      "found_at": "2026-09-03 16:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
