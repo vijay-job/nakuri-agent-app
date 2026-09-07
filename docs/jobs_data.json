@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07 08:08",
+  "last_updated": "2026-09-07 13:50",
   "total_applied": 14,
-  "total_manual": 749,
+  "total_manual": 752,
   "applied_jobs": [
     {
       "id": 1,
@@ -12193,6 +12193,54 @@
       "url": "https://www.naukri.com/job-listings-senior-devops-engineer-thyrocare-bengaluru-2-to-6-years-070926006942",
       "found_on": "2026-09-07",
       "found_at": "2026-09-07 08:08",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 750,
+      "title": "Cloud Engineer",
+      "company": "TEKsystems",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "GolangterraformawsKubernetesdockerpythonjavaCloud",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-cloud-engineer-allegis-group-bengaluru-3-to-8-years-070926028384",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 13:47",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 751,
+      "title": "Devops Engineer",
+      "company": "Reward360",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-4 Yrs",
+      "skills": "artifactorybuild toolscloud automationautomated testingcloud certificationaws cloudformationaws lambdaansible",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-reward360-global-services-pvt-ltd-bengaluru-2-to-4-years-070926502842",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 13:48",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 752,
+      "title": "Application Developer-Cloud Fullstack",
+      "company": "IBM",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "cloudkubernetespythonsoftware developmentmicrosoft azuredockeransiblemicroservices",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-application-developer-cloud-fullstack-ibm-india-pvt-limited-bengaluru-3-to-8-years-070926913501",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 13:50",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
