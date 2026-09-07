@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-03 16:44",
+  "last_updated": "2026-09-07 08:08",
   "total_applied": 14,
-  "total_manual": 747,
+  "total_manual": 749,
   "applied_jobs": [
     {
       "id": 1,
@@ -12161,6 +12161,38 @@
       "url": "https://www.naukri.com/job-listings-senior-software-engineer-devops-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-4-to-9-years-030926927766",
       "found_on": "2026-09-03",
       "found_at": "2026-09-03 16:44",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 748,
+      "title": "Devops Engineer",
+      "company": "Tekion",
+      "location": "Bengaluru, Chennai",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "AWSJenkinsTerraformDockerGithubAnsibleCi/CdContinuous Integration",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-tekion-chennai-bengaluru-2-to-6-years-070926005979",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 08:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 749,
+      "title": "Senior Devops Engineer",
+      "company": "Thyrocare",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "DevOpsLinuxInfrastructureKubernetesPythonNetworkingShell ScriptingDeployment",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-thyrocare-bengaluru-2-to-6-years-070926006942",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 08:08",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
