@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07 17:54",
+  "last_updated": "2026-09-08 08:03",
   "total_applied": 14,
-  "total_manual": 753,
+  "total_manual": 756,
   "applied_jobs": [
     {
       "id": 1,
@@ -12257,6 +12257,54 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-070926922204",
       "found_on": "2026-09-07",
       "found_at": "2026-09-07 17:54",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 754,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "continuous integrationkubernetesci/cddevopsawscontainerpythonsonarqube",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-6-years-070926926762",
+      "found_on": "2026-09-08",
+      "found_at": "2026-09-08 07:57",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 755,
+      "title": "Devops Engineer-AWS",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AWS DevOpsCI CD PipelineTerraformDockerKubernetesContinuous IntegrationCdDevops",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-aws-infosys-hyderabad-2-to-5-years-080926012183",
+      "found_on": "2026-09-08",
+      "found_at": "2026-09-08 07:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 756,
+      "title": "Devops Engineer",
+      "company": "Genxlead",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "LinuxMySQLDMSLAMPAWSPHPApacheDevops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-genxlead-chennai-2-to-7-years-080926012613",
+      "found_on": "2026-09-08",
+      "found_at": "2026-09-08 08:03",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
