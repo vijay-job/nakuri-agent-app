@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-09 12:41",
+  "last_updated": "2026-09-09 17:01",
   "total_applied": 14,
-  "total_manual": 779,
+  "total_manual": 781,
   "applied_jobs": [
     {
       "id": 1,
@@ -12673,6 +12673,38 @@
       "url": "https://www.naukri.com/job-listings-manager-solution-consulting-edge-verve-bengaluru-2-to-6-years-090926503900",
       "found_on": "2026-09-09",
       "found_at": "2026-09-09 12:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 780,
+      "title": "Consultant",
+      "company": "Brillio",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "kubernetesgithubca release automationnagiosaillmartificial intelligenceazure devops",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-consultant-brillio-2-bengaluru-4-to-7-years-090926500248",
+      "found_on": "2026-09-09",
+      "found_at": "2026-09-09 16:58",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 781,
+      "title": "Devops Engineer",
+      "company": "Embarkgcc Services",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "Spring BootAngularTerraformAzure Cloudjava PostgresqlSreGitlab Ci / Cd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-embarkgcc-services-bengaluru-4-to-9-years-090926034726",
+      "found_on": "2026-09-09",
+      "found_at": "2026-09-09 17:01",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
