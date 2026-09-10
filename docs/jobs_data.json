@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-10 12:33",
+  "last_updated": "2026-09-10 16:44",
   "total_applied": 14,
-  "total_manual": 783,
+  "total_manual": 785,
   "applied_jobs": [
     {
       "id": 1,
@@ -12737,6 +12737,38 @@
       "url": "https://www.naukri.com/job-listings-java-full-stack-developer-embarkgcc-services-bangalore-rural-bengaluru-4-to-9-years-100926021452",
       "found_on": "2026-09-10",
       "found_at": "2026-09-10 12:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 784,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "administrationcontainercontinuous integrationci/cd pipelinesaws administrationaws cloudformationcloud technologiescloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-100926933531",
+      "found_on": "2026-09-10",
+      "found_at": "2026-09-10 16:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 785,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "awscontainercdcontinuous integrationkubernetesaws infrastructurereleaseci/cd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-100926933549",
+      "found_on": "2026-09-10",
+      "found_at": "2026-09-10 16:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
