@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-09 17:01",
+  "last_updated": "2026-09-10 12:33",
   "total_applied": 14,
-  "total_manual": 781,
+  "total_manual": 783,
   "applied_jobs": [
     {
       "id": 1,
@@ -12705,6 +12705,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-embarkgcc-services-bengaluru-4-to-9-years-090926034726",
       "found_on": "2026-09-09",
       "found_at": "2026-09-09 17:01",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 782,
+      "title": "IAM AWS Engineer",
+      "company": "Flairdeck",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "cloud infragithubiacbitbucketidentity and access managementcloudiamaws cloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-iam-aws-engineer-flairdeck-hyderabad-3-to-6-years-100926500061",
+      "found_on": "2026-09-10",
+      "found_at": "2026-09-10 12:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 783,
+      "title": "Java Full Stack Developer",
+      "company": "Embarkgcc Services",
+      "location": "Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "AzurejavaCISpring BootKubernetesCDTerraformPostgresql",
+      "score": 70,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-embarkgcc-services-bangalore-rural-bengaluru-4-to-9-years-100926021452",
+      "found_on": "2026-09-10",
+      "found_at": "2026-09-10 12:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
