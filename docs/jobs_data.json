@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11 08:03",
+  "last_updated": "2026-09-11 12:26",
   "total_applied": 14,
-  "total_manual": 787,
+  "total_manual": 788,
   "applied_jobs": [
     {
       "id": 1,
@@ -12801,6 +12801,22 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-tata-consultancy-services-bengaluru-3-to-6-years-110926003128",
       "found_on": "2026-09-11",
       "found_at": "2026-09-11 08:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 788,
+      "title": "DevOps Engineer",
+      "company": "Rupstech",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "ci/cd pipelinesgithubcloud platformsgithub actionsiacdevops engineergitlab ciansible",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-rupstech-private-limited-bengaluru-1-to-5-years-110926501324",
+      "found_on": "2026-09-11",
+      "found_at": "2026-09-11 12:26",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
