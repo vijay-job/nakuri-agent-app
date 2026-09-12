@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11 16:47",
+  "last_updated": "2026-09-12 07:52",
   "total_applied": 14,
-  "total_manual": 789,
+  "total_manual": 790,
   "applied_jobs": [
     {
       "id": 1,
@@ -12833,6 +12833,22 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-aws-infosys-hyderabad-2-to-5-years-110926024188",
       "found_on": "2026-09-11",
       "found_at": "2026-09-11 16:47",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 790,
+      "title": "Azure DevOps professional",
+      "company": "TecQubes Technologies",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "continuous integrationpythonazure monitoringautomated testingazure devopsazure servicesscriptinggit",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-professional-tecqubes-technologies-india-pvt-ltd-bengaluru-4-to-8-years-110926504805",
+      "found_on": "2026-09-12",
+      "found_at": "2026-09-12 07:52",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
