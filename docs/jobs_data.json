@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-12 07:52",
+  "last_updated": "2026-09-12 15:50",
   "total_applied": 14,
-  "total_manual": 790,
+  "total_manual": 791,
   "applied_jobs": [
     {
       "id": 1,
@@ -12849,6 +12849,22 @@
       "url": "https://www.naukri.com/job-listings-azure-devops-professional-tecqubes-technologies-india-pvt-ltd-bengaluru-4-to-8-years-110926504805",
       "found_on": "2026-09-12",
       "found_at": "2026-09-12 07:52",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 791,
+      "title": "SRE/AWS Devops + Terraform",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "AWS DevOpsCI CD PipelineDevOpsTerraformDockerSreSite Reliability EngineeringKubernetes",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-sre-aws-devops-terraform-infosys-hyderabad-2-to-5-years-120926015460",
+      "found_on": "2026-09-12",
+      "found_at": "2026-09-12 15:50",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
