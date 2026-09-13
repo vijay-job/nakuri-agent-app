@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-12 15:50",
+  "last_updated": "2026-09-13 08:10",
   "total_applied": 14,
-  "total_manual": 791,
+  "total_manual": 792,
   "applied_jobs": [
     {
       "id": 1,
@@ -12865,6 +12865,22 @@
       "url": "https://www.naukri.com/job-listings-sre-aws-devops-terraform-infosys-hyderabad-2-to-5-years-120926015460",
       "found_on": "2026-09-12",
       "found_at": "2026-09-12 15:50",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 792,
+      "title": "ML Ops Engineer",
+      "company": "Guddge Infosol",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "TerraformGithubAWS SagemakerStep FunctionsPythonMlOpsSTP",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-ml-ops-engineer-guddge-infosol-bengaluru-3-to-8-years-130926002985",
+      "found_on": "2026-09-13",
+      "found_at": "2026-09-13 08:10",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
