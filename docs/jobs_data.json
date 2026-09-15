@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-14 18:22",
+  "last_updated": "2026-09-15 13:03",
   "total_applied": 14,
-  "total_manual": 800,
+  "total_manual": 802,
   "applied_jobs": [
     {
       "id": 1,
@@ -13009,6 +13009,38 @@
       "url": "https://www.naukri.com/job-listings-senior-software-engineer-ii-java-reactjs-aws-optum-global-solutions-india-private-limited-hyderabad-4-to-8-years-140926919574",
       "found_on": "2026-09-14",
       "found_at": "2026-09-14 18:22",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 801,
+      "title": "DevOps Engineer (AI Platform)",
+      "company": "Zensar",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-6 Yrs",
+      "skills": "githubMonitoring toolsNetworkingdevopsCloudInfrastructureDeploymentManagement",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-ai-platform-zensar-technologies-bengaluru-2-to-6-years-150926503536",
+      "found_on": "2026-09-15",
+      "found_at": "2026-09-15 13:01",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 802,
+      "title": "Application Developer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "pythondynamo dbjavascriptnode.jsawsrestgithubbot",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-application-developer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-150926922060",
+      "found_on": "2026-09-15",
+      "found_at": "2026-09-15 13:03",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
