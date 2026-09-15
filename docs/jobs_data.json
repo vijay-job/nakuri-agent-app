@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-15 13:03",
+  "last_updated": "2026-09-15 17:25",
   "total_applied": 14,
-  "total_manual": 802,
+  "total_manual": 804,
   "applied_jobs": [
     {
       "id": 1,
@@ -13041,6 +13041,38 @@
       "url": "https://www.naukri.com/job-listings-application-developer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-150926922060",
       "found_on": "2026-09-15",
       "found_at": "2026-09-15 13:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 803,
+      "title": "DevOps Engineer | Immediate Requirement",
+      "company": "Gadgeon Smart Systems",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "AWS DevOpsAmazon Ec2AWS IAMAWSPythonCi/CdContinuous IntegrationRequirements",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-immediate-requirement-gadgeon-smart-systems-bengaluru-1-to-6-years-150926025123",
+      "found_on": "2026-09-15",
+      "found_at": "2026-09-15 17:23",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 804,
+      "title": "DevOps Engineer",
+      "company": "Cloudifyops",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "IT servicesAutomationGITLinuxArchitectureGCPdevopsCloud",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-cloudifyops-bengaluru-4-to-9-years-150926505288",
+      "found_on": "2026-09-15",
+      "found_at": "2026-09-15 17:25",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
