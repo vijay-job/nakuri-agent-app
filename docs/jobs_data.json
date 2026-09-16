@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-15 17:25",
+  "last_updated": "2026-09-16 08:30",
   "total_applied": 14,
-  "total_manual": 804,
+  "total_manual": 805,
   "applied_jobs": [
     {
       "id": 1,
@@ -13073,6 +13073,22 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-cloudifyops-bengaluru-4-to-9-years-150926505288",
       "found_on": "2026-09-15",
       "found_at": "2026-09-15 17:25",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 805,
+      "title": "Senior DevOps Engineer and production support",
+      "company": "Dataceria Software Solutions",
+      "location": "Bengaluru, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "Azure CosmosdbAzure DevOpsAzure Kubernetes ServiceCosmosMicrosoft AzureProduction engineeringSeniorProduction support",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-and-production-support-dataceria-software-solutions-pune-bengaluru-4-to-8-years-150926038718",
+      "found_on": "2026-09-16",
+      "found_at": "2026-09-16 08:30",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
