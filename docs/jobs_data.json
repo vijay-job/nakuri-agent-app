@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-18 08:26",
+  "last_updated": "2026-09-18 12:46",
   "total_applied": 14,
-  "total_manual": 815,
+  "total_manual": 817,
   "applied_jobs": [
     {
       "id": 1,
@@ -13249,6 +13249,38 @@
       "url": "https://www.naukri.com/job-listings-senior-azure-devops-engineer-dataceria-software-solutions-pune-bengaluru-4-to-8-years-180926000184",
       "found_on": "2026-09-18",
       "found_at": "2026-09-18 08:26",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 816,
+      "title": "Senior Platform Engineer",
+      "company": "Quantiphi Analytics Solutions",
+      "location": "Hybrid - Bengaluru, Mumbai(Malad West), Thiruvananthapuram",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "DockerKubernetesPythonDevOpsTerraformGCPAksHelm",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-platform-engineer-quantiphi-analytics-solutions-mumbai-bengaluru-thiruvananthapuram-4-to-7-years-180926025169",
+      "found_on": "2026-09-18",
+      "found_at": "2026-09-18 12:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 817,
+      "title": "Sr. Systems Engineer - Linux, Python, Kbs, Containers",
+      "company": "Visa Consolidated Support Services India",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "AgileAutomationAws CloudComplianceAnalytical SkillsCloud PlatformCybersecurityBash",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sr-systems-engineer-linux-python-kbs-containers-visa-consolidated-support-services-india-pvt-ltd-bengaluru-4-to-8-years-180926922595",
+      "found_on": "2026-09-18",
+      "found_at": "2026-09-18 12:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
