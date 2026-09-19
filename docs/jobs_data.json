@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-18 12:46",
+  "last_updated": "2026-09-19 08:14",
   "total_applied": 14,
-  "total_manual": 817,
+  "total_manual": 818,
   "applied_jobs": [
     {
       "id": 1,
@@ -13281,6 +13281,22 @@
       "url": "https://www.naukri.com/job-listings-sr-systems-engineer-linux-python-kbs-containers-visa-consolidated-support-services-india-pvt-ltd-bengaluru-4-to-8-years-180926922595",
       "found_on": "2026-09-18",
       "found_at": "2026-09-18 12:46",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 818,
+      "title": "Junior Software Engineer",
+      "company": "Softility Tech Pvt. Ltd.",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "Ci/CdDockerGithubAWSContinuous IntegrationSoftwareCdContinuous Integration",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-junior-software-engineer-softility-tech-pvt-ltd-hyderabad-3-to-6-years-180926020022",
+      "found_on": "2026-09-19",
+      "found_at": "2026-09-19 08:14",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
