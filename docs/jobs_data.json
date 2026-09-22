@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-21 14:42",
+  "last_updated": "2026-09-22 12:54",
   "total_applied": 14,
-  "total_manual": 826,
+  "total_manual": 828,
   "applied_jobs": [
     {
       "id": 1,
@@ -13425,6 +13425,38 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-marcom-apple-india-pvt-ltd-hyderabad-3-to-6-years-210926504757",
       "found_on": "2026-09-21",
       "found_at": "2026-09-21 14:42",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 827,
+      "title": "Sr DevOps Engineer - Azure",
+      "company": "Innovature Software Labs",
+      "location": "Chennai, Kochi",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "ci/cd pipelinesazure kubernetes serviceargocdakschefcd toolscdnazure devops",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sr-devops-engineer-azure-innovature-technologies-india-pvt-ltd-kochi-chennai-2-to-5-years-220926501249",
+      "found_on": "2026-09-22",
+      "found_at": "2026-09-22 12:53",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 828,
+      "title": "FinOps Engineer",
+      "company": "Swaas Systems",
+      "location": "Chennai(Guindy)",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "DevOpsPower BIAzure CloudAWS BudgetsPythonCost OptimizationBudgetingForecasting",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-finops-engineer-swaas-systems-chennai-3-to-5-years-220926035592",
+      "found_on": "2026-09-22",
+      "found_at": "2026-09-22 12:54",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
