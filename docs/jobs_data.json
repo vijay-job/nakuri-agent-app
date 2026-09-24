@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-23 17:38",
+  "last_updated": "2026-09-24 12:59",
   "total_applied": 14,
-  "total_manual": 833,
+  "total_manual": 836,
   "applied_jobs": [
     {
       "id": 1,
@@ -13537,6 +13537,54 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-bangalore-chennai-tech-mahindra-chennai-bengaluru-4-to-7-years-230926025945",
       "found_on": "2026-09-23",
       "found_at": "2026-09-23 17:38",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 834,
+      "title": "AWS L2 DevOps engineer",
+      "company": "Quadrasystems.net",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "ci/cd pipelinescloud solutionscloud platformscloudfrontdevops engineeraws technologiesansibledocker",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-l2-devops-engineer-quadrasystems-net-chennai-3-to-8-years-240926502626",
+      "found_on": "2026-09-24",
+      "found_at": "2026-09-24 12:58",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 835,
+      "title": "Senior Devops Engineer",
+      "company": "Jman Digital Services",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "TerraformAI ServiceAzure CertifiedAIMLAzure DevOpsDevOpsCi/CdAl",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-devops-engineer-jman-digital-services-chennai-3-to-6-years-220426018945",
+      "found_on": "2026-09-24",
+      "found_at": "2026-09-24 12:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 836,
+      "title": "Jr Platform Engineer",
+      "company": "ARUP",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "ci/cd pipelinesgithubcloud platformsexpressgithub actionsequityazure devopsincident response",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-jr-platform-engineer-arup-hyderabad-1-to-5-years-240926501855",
+      "found_on": "2026-09-24",
+      "found_at": "2026-09-24 12:59",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
