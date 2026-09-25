@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-24 12:59",
+  "last_updated": "2026-09-25 08:43",
   "total_applied": 14,
-  "total_manual": 836,
+  "total_manual": 839,
   "applied_jobs": [
     {
       "id": 1,
@@ -13585,6 +13585,54 @@
       "url": "https://www.naukri.com/job-listings-jr-platform-engineer-arup-hyderabad-1-to-5-years-240926501855",
       "found_on": "2026-09-24",
       "found_at": "2026-09-24 12:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 837,
+      "title": "Senior Azure Devops Engineer - From Big 4 Consulting Call Vikas",
+      "company": "BIG4",
+      "location": "Hybrid - Bengaluru, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "Cloud Automation DevOpsinfrastructure provisioningAzure DevOpsTerraformGithubGithub ActionsCi/CdDevops",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-azure-devops-engineer-from-big-4-consulting-call-vikas-imaginators-try-going-beyond-gurugram-bengaluru-4-to-7-years-250926006255",
+      "found_on": "2026-09-25",
+      "found_at": "2026-09-25 08:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 838,
+      "title": "Senior Azure Devops Engineer",
+      "company": "BIG4",
+      "location": "Hybrid - Bengaluru, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "Cloud Automation DevOpsinfrastructure provisioningAzure DevOpsCI CD PipelineTerraformGithubGithub ActionsCi/Cd",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-senior-azure-devops-engineer-imaginators-try-going-beyond-gurugram-bengaluru-4-to-6-years-250926013732",
+      "found_on": "2026-09-25",
+      "found_at": "2026-09-25 08:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 839,
+      "title": "Spring Boot Microservices",
+      "company": "Zensar",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "api gatewaygithub actionshibernatecachingazure devopsdockercloudgit",
+      "score": 75,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-spring-boot-microservices-zensar-technologies-bengaluru-4-to-8-years-240926504508",
+      "found_on": "2026-09-25",
+      "found_at": "2026-09-25 08:43",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
