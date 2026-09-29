@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-28 19:53",
+  "last_updated": "2026-09-29 09:42",
   "total_applied": 14,
-  "total_manual": 849,
+  "total_manual": 852,
   "applied_jobs": [
     {
       "id": 1,
@@ -13793,6 +13793,54 @@
       "url": "https://www.naukri.com/job-listings-cloud-devops-engineer-amnet-digital-hyderabad-4-to-9-years-280926503024",
       "found_on": "2026-09-28",
       "found_at": "2026-09-28 19:53",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 850,
+      "title": "Azure Linux Admin",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "LinuxAnsibleazureTerraformGCpAzure linux devopsIacCi/Cd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-linux-admin-tata-consultancy-services-bengaluru-4-to-6-years-290926016556",
+      "found_on": "2026-09-29",
+      "found_at": "2026-09-29 09:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 851,
+      "title": "Opening For Mlops engineer For Pan India",
+      "company": "Capgemini",
+      "location": "Hybrid - Chennai, Kolkata, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "MlopsTerraformGCPCi/CdAWSPythonazureKubernetes",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-opening-for-mlops-engineer-for-pan-india-capgemini-kolkata-gurugram-chennai-4-to-9-years-290926025271",
+      "found_on": "2026-09-29",
+      "found_at": "2026-09-29 09:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 852,
+      "title": "GCP DevOps Engineer -H",
+      "company": "IT MNC",
+      "location": "Hybrid - Hyderabad, Pune",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "GCPGKEDevOpsTerraformDockerGCP DevOpsCi/CdKubernetes",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-gcp-devops-engineer-h-advance-career-solutions-hyderabad-pune-4-to-8-years-290926003438",
+      "found_on": "2026-09-29",
+      "found_at": "2026-09-29 09:42",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
