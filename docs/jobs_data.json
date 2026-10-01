@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-30 18:19",
+  "last_updated": "2026-10-01 10:00",
   "total_applied": 14,
-  "total_manual": 856,
+  "total_manual": 857,
   "applied_jobs": [
     {
       "id": 1,
@@ -13905,6 +13905,22 @@
       "url": "https://www.naukri.com/job-listings-aws-infrastructure-engineer-infosys-hyderabad-3-to-6-years-300926035501",
       "found_on": "2026-09-30",
       "found_at": "2026-09-30 18:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 857,
+      "title": "Python AI Engineer",
+      "company": "PwC",
+      "location": "Hybrid - Bengaluru, Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "DockerFast APIAI EngineerPython DevelopmentPythonPydantic AIGithubCi/Cd",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-python-ai-engineer-pwc-hyderabad-bengaluru-4-to-9-years-011026011597",
+      "found_on": "2026-10-01",
+      "found_at": "2026-10-01 10:00",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
