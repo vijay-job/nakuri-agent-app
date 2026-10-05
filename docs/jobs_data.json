@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02 09:31",
+  "last_updated": "2026-10-05 10:15",
   "total_applied": 14,
-  "total_manual": 858,
+  "total_manual": 860,
   "applied_jobs": [
     {
       "id": 1,
@@ -13937,6 +13937,38 @@
       "url": "https://www.naukri.com/job-listings-machine-learning-operations-mlops-professional-ibu-consulting-bengaluru-2-to-6-years-011026501144",
       "found_on": "2026-10-02",
       "found_at": "2026-10-02 09:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 859,
+      "title": "java fullstack (Face To face interview on 7th oct in bangalore)",
+      "company": "Innova Solutions",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "JavaDockerKafkaSpring BootReact.jsAWSMicroservicesAngular",
+      "score": 70,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-fullstack-face-to-face-interview-on-7th-oct-in-bangalore-innova-solutions-bengaluru-3-to-8-years-051026016895",
+      "found_on": "2026-10-05",
+      "found_at": "2026-10-05 10:14",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 860,
+      "title": "Devops Copado SA",
+      "company": "PwC",
+      "location": "Hybrid - Bengaluru, Hyderabad, Kolkata",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "JenkinsDevOpsCi/CdCopadoAzure DevOpsGithubPipelineContinuous Integration",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-copado-sa-pwc-kolkata-hyderabad-bengaluru-4-to-9-years-051026009092",
+      "found_on": "2026-10-05",
+      "found_at": "2026-10-05 10:15",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
