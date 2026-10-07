@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-07 10:16",
+  "last_updated": "2026-10-07 14:55",
   "total_applied": 14,
-  "total_manual": 878,
+  "total_manual": 880,
   "applied_jobs": [
     {
       "id": 1,
@@ -14257,6 +14257,38 @@
       "url": "https://www.naukri.com/job-listings-senior-devops-engineer-vantura-hyderabad-4-to-9-years-071026021879",
       "found_on": "2026-10-07",
       "found_at": "2026-10-07 10:16",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 879,
+      "title": "Azure DevOps Engineer",
+      "company": "Wissen Infotech",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "ci/cd pipelinesgithubaksgithub actionsfinancial servicesazure devopsdockerazure infrastructure",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-wissen-infotech-pvt-ltd-bengaluru-3-to-5-years-071026502910",
+      "found_on": "2026-10-07",
+      "found_at": "2026-10-07 14:46",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 880,
+      "title": "Azure AWS Devops Engineer",
+      "company": "Kalo Tech Studio",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "AzureAWSGCPDevopsAzure DevopsAWS DevopsAzure AWSMicrosoft Azure",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-aws-devops-engineer-kalo-tech-studio-hyderabad-3-to-5-years-071026029760",
+      "found_on": "2026-10-07",
+      "found_at": "2026-10-07 14:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
