@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08 15:03",
+  "last_updated": "2026-10-08 19:08",
   "total_applied": 14,
-  "total_manual": 884,
+  "total_manual": 885,
   "applied_jobs": [
     {
       "id": 1,
@@ -14353,6 +14353,22 @@
       "url": "https://www.naukri.com/job-listings-sr-soft-engineer-i-reed-elsevier-india-a-part-of-relx-india-pvt-ltd-gurugram-chennai-4-to-8-years-081026506093",
       "found_on": "2026-10-08",
       "found_at": "2026-10-08 15:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 885,
+      "title": "Aws Devops Engineer",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Hyderabad, Pune",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "DevOpsAWSTerraformAnsibleCi/CdPythonAWS DevopsCd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-pune-bengaluru-3-to-8-years-081026050357",
+      "found_on": "2026-10-08",
+      "found_at": "2026-10-08 19:08",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
