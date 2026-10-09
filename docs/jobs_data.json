@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08 19:08",
+  "last_updated": "2026-10-09 10:22",
   "total_applied": 14,
-  "total_manual": 885,
+  "total_manual": 886,
   "applied_jobs": [
     {
       "id": 1,
@@ -14369,6 +14369,22 @@
       "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-pune-bengaluru-3-to-8-years-081026050357",
       "found_on": "2026-10-08",
       "found_at": "2026-10-08 19:08",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 886,
+      "title": "Site Reliability Engineer I",
+      "company": "CME Group",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "srekubernetescontinuous integrationpythonreliabilitymicrosoft azuresite reliability engineeringansible",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-i-cme-india-technology-and-support-services-pvt-ltd-bengaluru-4-to-7-years-091026911666",
+      "found_on": "2026-10-09",
+      "found_at": "2026-10-09 10:22",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
