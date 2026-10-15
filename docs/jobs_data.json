@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-15 08:13",
+  "last_updated": "2026-10-15 13:01",
   "total_applied": 14,
-  "total_manual": 914,
+  "total_manual": 917,
   "applied_jobs": [
     {
       "id": 1,
@@ -14833,6 +14833,54 @@
       "url": "https://www.naukri.com/job-listings-linux-test-engineer-ibm-india-pvt-limited-bengaluru-3-to-10-years-141026932293",
       "found_on": "2026-10-15",
       "found_at": "2026-10-15 08:13",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 915,
+      "title": "GCP Devops Engineer",
+      "company": "Naukri Assist",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-8 Yrs",
+      "skills": "GCP DevOpsPythonDevOpsGCP CloudTerraformAnsibleGoogle Cloud PlatformsKubernetes",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-gcp-devops-engineer-naukri-assist-bengaluru-4-to-8-years-151026022931",
+      "found_on": "2026-10-15",
+      "found_at": "2026-10-15 12:58",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 916,
+      "title": "Production support_Linux+Kubernetes/openshift+ITIL_2 To 5 years",
+      "company": "Kiya.ai",
+      "location": "Hybrid - Chennai",
+      "salary": "Not disclosed",
+      "experience": "2-5 Yrs",
+      "skills": "Application SupportAutoSysProduction SupportITIL ProcessKubernetespythonShell ScriptingScripting Languages",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-production-support-linux-kubernetes-openshift-itil-2-to-5-years-kiya-ai-chennai-2-to-5-years-151026031070",
+      "found_on": "2026-10-15",
+      "found_at": "2026-10-15 12:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 917,
+      "title": "Site Reliability Engineer II - Python, AWS, Unix",
+      "company": "JPMorgan Chase Bank",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "2-7 Yrs",
+      "skills": "UnixLinuxJava J2Ee DeveloperAgileApplication developmentWindowsOracleTroubleshooting",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-ii-python-aws-unix-jp-morgan-and-chase-bengaluru-2-to-7-years-151026502716",
+      "found_on": "2026-10-15",
+      "found_at": "2026-10-15 13:01",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
