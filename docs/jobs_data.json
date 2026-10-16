@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-15 13:01",
+  "last_updated": "2026-10-16 08:04",
   "total_applied": 14,
-  "total_manual": 917,
+  "total_manual": 918,
   "applied_jobs": [
     {
       "id": 1,
@@ -14881,6 +14881,22 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-ii-python-aws-unix-jp-morgan-and-chase-bengaluru-2-to-7-years-151026502716",
       "found_on": "2026-10-15",
       "found_at": "2026-10-15 13:01",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 918,
+      "title": "Site Reliability Engineer",
+      "company": "Integra Solutions",
+      "location": "Hyderabad(HITEC City)",
+      "salary": "Not disclosed",
+      "experience": "3-6 Yrs",
+      "skills": "DockerCdReliabilityGITPostgresqlAWSSiteSite Reliability Engineering",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-integra-solutions-hyderabad-3-to-6-years-161026013875",
+      "found_on": "2026-10-16",
+      "found_at": "2026-10-16 08:04",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
