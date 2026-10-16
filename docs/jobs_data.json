@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16 08:04",
+  "last_updated": "2026-10-16 12:48",
   "total_applied": 14,
-  "total_manual": 918,
+  "total_manual": 919,
   "applied_jobs": [
     {
       "id": 1,
@@ -14897,6 +14897,22 @@
       "url": "https://www.naukri.com/job-listings-site-reliability-engineer-integra-solutions-hyderabad-3-to-6-years-161026013875",
       "found_on": "2026-10-16",
       "found_at": "2026-10-16 08:04",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 919,
+      "title": "VS01746 - DevOps Engineer with JFrog Artifactory+Git",
+      "company": "E4 Software Services",
+      "location": "Bengaluru, Chennai, Mumbai, Pune",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "AutomationTroubleshootingUnixGITJenkinsLinuxVersion controlShell scripting",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-vs01746-devops-engineer-with-jfrog-artifactory-git-e4-softwares-mumbai-pune-chennai-bengaluru-3-to-7-years-161026501276",
+      "found_on": "2026-10-16",
+      "found_at": "2026-10-16 12:48",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
