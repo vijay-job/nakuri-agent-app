@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21 08:30",
+  "last_updated": "2026-10-21 13:17",
   "total_applied": 14,
-  "total_manual": 925,
+  "total_manual": 928,
   "applied_jobs": [
     {
       "id": 1,
@@ -15009,6 +15009,54 @@
       "url": "https://www.naukri.com/job-listings-azure-devops-engineer-vilje-tech-hyderabad-4-to-6-years-211026008514",
       "found_on": "2026-10-21",
       "found_at": "2026-10-21 08:30",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 926,
+      "title": "SRE Devops Engineer",
+      "company": "Wissen Technology",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "DevopsKubernetesSreAWSShell scriptingScriptingPythonDocker",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-sre-devops-engineer-wissen-technology-bengaluru-4-to-9-years-211026017269",
+      "found_on": "2026-10-21",
+      "found_at": "2026-10-21 13:13",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 927,
+      "title": "Devops Engineer",
+      "company": "Rarr Technologies",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "JenkinsDevopsPythonGCPScriptingOrchestrationManagementGithub",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-rarr-technologies-bengaluru-3-to-8-years-211026502823",
+      "found_on": "2026-10-21",
+      "found_at": "2026-10-21 13:15",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 928,
+      "title": "DevOps Engineer",
+      "company": "Techcarrot Fz-llc",
+      "location": "Chennai, Hyderabad, Noida",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "ConfigurationAutomationTroubleshootingPythonLinuxPerlMicrosoft WindowsScheduling",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-techcarrot-fz-llc-noida-hyderabad-chennai-4-to-9-years-211026503310",
+      "found_on": "2026-10-21",
+      "found_at": "2026-10-21 13:17",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
