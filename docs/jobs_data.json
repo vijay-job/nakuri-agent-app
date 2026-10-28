@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-27 13:40",
+  "last_updated": "2026-10-28 09:33",
   "total_applied": 14,
-  "total_manual": 956,
+  "total_manual": 957,
   "applied_jobs": [
     {
       "id": 1,
@@ -15505,6 +15505,22 @@
       "url": "https://www.naukri.com/job-listings-gen-ai-engineer-aws-fractal-analytics-ltd-bengaluru-4-to-9-years-271026501013",
       "found_on": "2026-10-27",
       "found_at": "2026-10-27 13:40",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 957,
+      "title": "Automation Specialist",
+      "company": "Quess IT Solutions",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-7 Yrs",
+      "skills": "DevopsWebmethodsAWSMule ESBIntegrationLinuxPythonControl-M",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-automation-specialist-quess-it-solutions-bengaluru-4-to-7-years-281026006271",
+      "found_on": "2026-10-28",
+      "found_at": "2026-10-28 09:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
