@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-28 09:33",
+  "last_updated": "2026-10-28 14:36",
   "total_applied": 14,
-  "total_manual": 957,
+  "total_manual": 958,
   "applied_jobs": [
     {
       "id": 1,
@@ -15521,6 +15521,22 @@
       "url": "https://www.naukri.com/job-listings-automation-specialist-quess-it-solutions-bengaluru-4-to-7-years-281026006271",
       "found_on": "2026-10-28",
       "found_at": "2026-10-28 09:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 958,
+      "title": "Software Engineer - Python, Automation, Networking",
+      "company": "Cisco",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "DockerDistributionMicrosoft AzureCloudCloud TestingDevelopmentAWSBehavior Driven",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-python-automation-networking-cisco-bengaluru-3-to-5-years-281026503046",
+      "found_on": "2026-10-28",
+      "found_at": "2026-10-28 14:36",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
