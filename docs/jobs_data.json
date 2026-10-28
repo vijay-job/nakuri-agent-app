@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-28 14:36",
+  "last_updated": "2026-10-28 18:31",
   "total_applied": 14,
-  "total_manual": 958,
+  "total_manual": 959,
   "applied_jobs": [
     {
       "id": 1,
@@ -15537,6 +15537,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-python-automation-networking-cisco-bengaluru-3-to-5-years-281026503046",
       "found_on": "2026-10-28",
       "found_at": "2026-10-28 14:36",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 959,
+      "title": "Devops Engineer",
+      "company": "Codewave",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "DockerGolangPythonAWSMicrosoft AzureMicrosoftGCPConcurrent",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-codewave-technologies-bengaluru-1-to-4-years-281026034243",
+      "found_on": "2026-10-28",
+      "found_at": "2026-10-28 18:31",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
