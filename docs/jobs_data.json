@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-03 10:38",
+  "last_updated": "2026-11-03 15:38",
   "total_applied": 14,
-  "total_manual": 973,
+  "total_manual": 976,
   "applied_jobs": [
     {
       "id": 1,
@@ -15777,6 +15777,54 @@
       "url": "https://www.naukri.com/job-listings-devops-engineer-accenture-solutions-pvt-ltd-chennai-3-to-6-years-021126923214",
       "found_on": "2026-11-03",
       "found_at": "2026-11-03 10:38",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 974,
+      "title": "Consultant GCP DevOps Engineer",
+      "company": "Tredence",
+      "location": "Hybrid - Bengaluru, Chennai, Pune",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "ConsultingDockerCdPythonGCPTerraformContinuous IntegrationContinuous Integration",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-consultant-gcp-devops-engineer-tredence-pune-chennai-bengaluru-3-to-5-years-031126026704",
+      "found_on": "2026-11-03",
+      "found_at": "2026-11-03 15:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 975,
+      "title": "Software Engineer",
+      "company": "Adva Optical Networking",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "3-5 Yrs",
+      "skills": "CI Cd PipelineGroovyDockerDevopsAWSManagementContinuous IntegrationLinux",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-adva-bengaluru-3-to-5-years-031126501363",
+      "found_on": "2026-11-03",
+      "found_at": "2026-11-03 15:37",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 976,
+      "title": "Platform Data DevOps & SRE",
+      "company": "Cloud Raptor",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "4-6 Yrs",
+      "skills": "DevopsPythonDBMSTerraformManagementSreKubernetesAWS",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-platform-data-devops-sre-cloud-raptor-bengaluru-4-to-6-years-031126024361",
+      "found_on": "2026-11-03",
+      "found_at": "2026-11-03 15:38",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
