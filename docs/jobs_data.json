@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-04 15:51",
+  "last_updated": "2026-11-05 10:35",
   "total_applied": 14,
-  "total_manual": 980,
+  "total_manual": 981,
   "applied_jobs": [
     {
       "id": 1,
@@ -15889,6 +15889,22 @@
       "url": "https://www.naukri.com/job-listings-gcp-cloud-engineer-itc-infotech-india-ltd-bengaluru-2-to-7-years-041126500186",
       "found_on": "2026-11-04",
       "found_at": "2026-11-04 15:51",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 981,
+      "title": "Azure Devops with Git HUB Migration",
+      "company": "Wipro",
+      "location": "Bengaluru, Hyderabad, Pune",
+      "salary": "Not disclosed",
+      "experience": "3-8 Yrs",
+      "skills": "DevopsGITAzure DevopsMicrosoft AzureMigrationHubGithub",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-devops-with-git-hub-migration-wipro-hyderabad-pune-bengaluru-3-to-8-years-051126027076",
+      "found_on": "2026-11-05",
+      "found_at": "2026-11-05 10:35",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
