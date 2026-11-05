@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-05 10:35",
+  "last_updated": "2026-11-05 15:55",
   "total_applied": 14,
-  "total_manual": 981,
+  "total_manual": 982,
   "applied_jobs": [
     {
       "id": 1,
@@ -15905,6 +15905,22 @@
       "url": "https://www.naukri.com/job-listings-azure-devops-with-git-hub-migration-wipro-hyderabad-pune-bengaluru-3-to-8-years-051126027076",
       "found_on": "2026-11-05",
       "found_at": "2026-11-05 10:35",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 982,
+      "title": "Devops Engineer",
+      "company": "IDFC FIRST Bank",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "4-9 Yrs",
+      "skills": "DevopsKubernetesCdAWSCdContinuous IntegrationHelmTerraform",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-idfc-first-bank-chennai-4-to-9-years-051126030245",
+      "found_on": "2026-11-05",
+      "found_at": "2026-11-05 15:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
