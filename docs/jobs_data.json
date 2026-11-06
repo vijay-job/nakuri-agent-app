@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-06 10:41",
+  "last_updated": "2026-11-06 15:34",
   "total_applied": 14,
-  "total_manual": 988,
+  "total_manual": 989,
   "applied_jobs": [
     {
       "id": 1,
@@ -16017,6 +16017,22 @@
       "url": "https://www.naukri.com/job-listings-cloud-engineer-java-aws-postgresql-ci-cd-jenkins-github-cisco-bengaluru-4-to-9-years-061126501069",
       "found_on": "2026-11-06",
       "found_at": "2026-11-06 10:41",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 989,
+      "title": "Forward Deployed AI Engineer",
+      "company": "PwC India",
+      "location": "Hybrid - Bengaluru(Halasuru)",
+      "salary": "Not disclosed",
+      "experience": "3-7 Yrs",
+      "skills": "DevopsKubernetesAWSTensorflowDeploymentMicrosoft AzureSystemGeneration",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-forward-deployed-ai-engineer-pwc-india-bengaluru-3-to-7-years-061126025321",
+      "found_on": "2026-11-06",
+      "found_at": "2026-11-06 15:34",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
